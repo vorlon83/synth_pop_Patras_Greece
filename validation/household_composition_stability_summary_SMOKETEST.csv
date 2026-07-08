@@ -1,0 +1,5 @@
+metric,n,mean,sd,cv_pct,min,max
+Singleton rate (%),1,24.061320,nan,nan,24.061320,24.061320
+Mean household size,1,2.604880,nan,nan,2.604880,2.604880
+Multigenerational share (%),1,1.373795,nan,nan,1.373795,1.373795
+JSD household-size vs WG (bits),1,0.007825,nan,nan,0.007825,0.007825

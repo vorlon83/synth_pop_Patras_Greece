@@ -1,0 +1,95 @@
+Loading agents ...
+  215,927 agents  |  82,507 R households
+  SAR targets: ['15%', '20%', '25%', '30%']  n_seeds=50
+
+  SAR15 [10/50]  R=66.43%  U=68.59%  inactive U-R=+4.67pp  [329s]
+  SAR15 [20/50]  R=66.43%  U=68.61%  inactive U-R=+4.72pp  [662s]
+  SAR15 [30/50]  R=61.99%  U=68.62%  inactive U-R=+5.90pp  [1001s]
+  SAR15 [40/50]  R=63.10%  U=68.63%  inactive U-R=+5.64pp  [1335s]
+  SAR15 [50/50]  R=63.77%  U=68.63%  inactive U-R=+5.48pp  [1663s]
+
+========================================================================
+SAR15  beta_family=0.0161  [1663s total, 33.3s/pair]
+  Curve shape: R multi-peak 48/50  U multi-peak 49/50
+
+  Metric                     R mean      (SD)     U mean      (SD)       U-R         p
+  ----------------------------------------------------------------------------
+  Overall AR                 63.77%  ( 13.15)     68.63%  (  0.07)    +4.86%    0.0000
+  Inactive AR                16.09%  (  3.32)     21.57%  (  0.15)    +5.48%    0.0000
+  Employed AR                95.66%  ( 19.73)     99.95%  (  0.05)    +4.28%    0.0000
+  Student AR                 95.29%  ( 19.65)     99.95%  (  0.05)    +4.66%    0.0000
+  Peak incidence           3294.42  (684.80)   4259.50  ( 82.76)  +965.08    0.0000
+  Day of peak               100.34  ( 21.71)     89.40  (  8.62)   -10.94    0.0000
+
+  SAR20 [10/50]  R=68.21%  U=70.89%  inactive U-R=+6.29pp  [337s]
+  SAR20 [20/50]  R=68.21%  U=70.90%  inactive U-R=+6.26pp  [661s]
+  SAR20 [30/50]  R=65.94%  U=70.90%  inactive U-R=+6.98pp  [973s]
+  SAR20 [40/50]  R=66.51%  U=70.89%  inactive U-R=+6.76pp  [1349s]
+  SAR20 [50/50]  R=66.85%  U=70.89%  inactive U-R=+6.66pp  [1689s]
+
+========================================================================
+SAR20  beta_family=0.0221  [1689s total, 33.8s/pair]
+  Curve shape: R multi-peak 49/50  U multi-peak 44/50
+
+  Metric                     R mean      (SD)     U mean      (SD)       U-R         p
+  ----------------------------------------------------------------------------
+  Overall AR                 66.85%  (  9.65)     70.89%  (  0.06)    +4.03%    0.0000
+  Inactive AR                20.49%  (  2.96)     27.15%  (  0.16)    +6.66%    0.0000
+  Employed AR                97.87%  ( 14.12)     99.99%  (  0.02)    +2.12%    0.0000
+  Student AR                 97.47%  ( 14.07)     99.98%  (  0.02)    +2.51%    0.0000
+  Peak incidence           3733.10  (546.24)   5015.92  ( 89.53)  +1282.82    0.0000
+  Day of peak                95.06  ( 15.91)     78.30  (  6.77)   -16.76    0.0000
+
+  SAR25 [10/50]  R=69.71%  U=72.90%  inactive U-R=+7.62pp  [323s]
+  SAR25 [20/50]  R=69.73%  U=72.93%  inactive U-R=+7.64pp  [646s]
+  SAR25 [30/50]  R=67.41%  U=72.92%  inactive U-R=+8.46pp  [956s]
+  SAR25 [40/50]  R=68.00%  U=72.93%  inactive U-R=+8.24pp  [1292s]
+  SAR25 [50/50]  R=68.35%  U=72.93%  inactive U-R=+8.11pp  [1615s]
+
+========================================================================
+SAR25  beta_family=0.0284  [1615s total, 32.3s/pair]
+  Curve shape: R multi-peak 49/50  U multi-peak 33/50
+
+  Metric                     R mean      (SD)     U mean      (SD)       U-R         p
+  ----------------------------------------------------------------------------
+  Overall AR                 68.35%  (  9.86)     72.93%  (  0.07)    +4.58%    0.0000
+  Inactive AR                24.14%  (  3.49)     32.25%  (  0.17)    +8.11%    0.0000
+  Employed AR                97.92%  ( 14.13)    100.00%  (  0.01)    +2.07%    0.0000
+  Student AR                 97.54%  ( 14.08)     99.98%  (  0.01)    +2.44%    0.0000
+  Peak incidence           4052.18  (591.32)   5673.04  (103.16)  +1620.86    0.0000
+  Day of peak                88.94  ( 14.46)     71.26  (  5.26)   -17.68    0.0000
+
+  SAR30 [10/50]  R=71.10%  U=74.79%  inactive U-R=+8.90pp  [329s]
+  SAR30 [20/50]  R=71.10%  U=74.77%  inactive U-R=+8.88pp  [660s]
+  SAR30 [30/50]  R=68.72%  U=74.77%  inactive U-R=+9.84pp  [973s]
+  SAR30 [40/50]  R=69.33%  U=74.77%  inactive U-R=+9.56pp  [1305s]
+  SAR30 [50/50]  R=69.69%  U=74.77%  inactive U-R=+9.41pp  [3426s]
+
+========================================================================
+SAR30  beta_family=0.0350  [3426s total, 68.5s/pair]
+  Curve shape: R multi-peak 49/50  U multi-peak 37/50
+
+  Metric                     R mean      (SD)     U mean      (SD)       U-R         p
+  ----------------------------------------------------------------------------
+  Overall AR                 69.69%  ( 10.06)     74.77%  (  0.07)    +5.08%    0.0000
+  Inactive AR                27.44%  (  3.96)     36.85%  (  0.19)    +9.41%    0.0000
+  Employed AR                97.94%  ( 14.13)    100.00%  (  0.00)    +2.05%    0.0000
+  Student AR                 97.60%  ( 14.08)     99.98%  (  0.01)    +2.39%    0.0000
+  Peak incidence           4354.24  (635.02)   6247.66  ( 92.84)  +1893.42    0.0000
+  Day of peak                84.44  ( 13.65)     65.34  (  4.21)   -19.10    0.0000
+
+========================================================================
+All done. Total: 8394s (139.9 min)
+
+Saved: C:\Users\thomo\Documents\MEGA\Papers\WRITING\Synthetic Population Hallas\GIS-paper-main\abm-patras-greece-main\full_sweep_50rep_summary.csv
+Saved: C:\Users\thomo\Documents\MEGA\Papers\WRITING\Synthetic Population Hallas\GIS-paper-main\abm-patras-greece-main\full_sweep_50rep_curves.csv
+Saved: C:\Users\thomo\Documents\MEGA\Papers\WRITING\Synthetic Population Hallas\GIS-paper-main\abm-patras-greece-main\full_sweep_50rep_perrun.csv
+
+MONOTONICITY CHECK across SAR range:
+  SAR   overall U-R   inactive U-R   R peak day   R peak delay   R peak drop%
+  15%        +4.86pp         +5.48pp       100.3d         +10.9d         +22.7%
+  20%        +4.03pp         +6.66pp        95.1d         +16.8d         +25.6%
+  25%        +4.58pp         +8.11pp        88.9d         +17.7d         +28.6%
+  30%        +5.08pp         +9.41pp        84.4d         +19.1d         +30.3%
+
+DONE.
