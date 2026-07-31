@@ -19,10 +19,10 @@ data/synthpop/repair_manifest.json
 # copy ipf_results/households.json there, so only the destination copy needs tracking)
 Thesis_Synthpop-main/python_ipf/ipf_results/households.json
 
-# Compiled manuscript PDFs — build artifacts, not source; the actual submission manuscript
-# lives in a separate JASSS_manuscript/ folder outside this repo entirely
+# Older manuscript track (superseded by JASSS_manuscript/, which lives outside this repo
+# entirely) — LaTeX build artifacts, figure PNGs, and source all excluded as a whole folder
 main.pdf
-Synthetic_Population_manuscript/main.pdf
+Synthetic_Population_manuscript/
 
 # Safety-copy backups from a past session's reseeded rerun (see CLAUDE_CONTEXT.md 2026-07-10
 # entry) — not read by any script, kept locally for reference only
