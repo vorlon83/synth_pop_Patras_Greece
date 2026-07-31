@@ -1,8 +1,11 @@
 # Third-party OSM data — download separately per DATA_SETUP.md step 5
 data/greece-260611-free.shp/
 
-# Licensed source microdata — not redistributable, see DATA_SETUP.md step 6
-Thesis_Synthpop-main/it_microdata_preprocess/SOG_Microdati_2016.txt
+# NOTE: Thesis_Synthpop-main/it_microdata_preprocess/SOG_Microdati_2016.txt was previously
+# listed here as "licensed, not redistributable" per DATA_SETUP.md, but that claim was never
+# independently verified and the user believes it's public ISTAT data — left tracked, not
+# excluded, pending confirmation. Do not re-add an exclusion for it without checking with the
+# user first.
 
 # Superseded population file variants — see DATA_SETUP.md step 1 for the canonical list
 data/synthpop/households_pre_band14fix.json
@@ -11,6 +14,20 @@ data/synthpop/patras_households_pre_edu_reweight.json
 data/synthpop/patras_households_repaired.json
 data/synthpop/patras_households_edu_reweighted.json
 data/synthpop/repair_manifest.json
+
+# Duplicate of data/synthpop/households.json (byte-identical; the documented workflow is to
+# copy ipf_results/households.json there, so only the destination copy needs tracking)
+Thesis_Synthpop-main/python_ipf/ipf_results/households.json
+
+# Compiled manuscript PDFs — build artifacts, not source; the actual submission manuscript
+# lives in a separate JASSS_manuscript/ folder outside this repo entirely
+main.pdf
+Synthetic_Population_manuscript/main.pdf
+
+# Safety-copy backups from a past session's reseeded rerun (see CLAUDE_CONTEXT.md 2026-07-10
+# entry) — not read by any script, kept locally for reference only
+data/initial_state_preseed_backup.geojson
+figures/initial_state_regenerated_preseed_backup.geojson
 
 # Python
 __pycache__/
@@ -21,9 +38,11 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Regenerable interactive maps (can be several MB each; optional to keep)
+# Regenerable interactive maps (can be several MB each; write-only outputs, not read by any
+# script; optional to keep)
 map.html
 map_buildings.html
+data/SCHOOLS/urban_areas_map.html
 
 # OS
 .DS_Store
