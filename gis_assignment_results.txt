@@ -1,0 +1,16 @@
+GIS assignment results (patras_households.json)
+=================================================================
+Total synthetic individuals: 215,927
+District target population:  187,554
+Assigned to building polygons: 183,569 (85.0%)
+Unplaced (peripheral/rural):   32,358 (15.0%)
+
+District fill rate (n=55 districts):
+  Min:    100.0%
+  Median: 100.0%
+  Max:    100.0%
+
+Households per occupied building:
+  Mean:   2.14
+  Median: 2.0
+  Max:    5

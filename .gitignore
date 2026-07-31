@@ -1,0 +1,30 @@
+# Third-party OSM data — download separately per DATA_SETUP.md step 5
+data/greece-260611-free.shp/
+
+# Licensed source microdata — not redistributable, see DATA_SETUP.md step 6
+Thesis_Synthpop-main/it_microdata_preprocess/SOG_Microdati_2016.txt
+
+# Superseded population file variants — see DATA_SETUP.md step 1 for the canonical list
+data/synthpop/households_pre_band14fix.json
+data/synthpop/patras_households_new.json
+data/synthpop/patras_households_pre_edu_reweight.json
+data/synthpop/patras_households_repaired.json
+data/synthpop/patras_households_edu_reweighted.json
+data/synthpop/repair_manifest.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Regenerable interactive maps (can be several MB each; optional to keep)
+map.html
+map_buildings.html
+
+# OS
+.DS_Store
+Thumbs.db

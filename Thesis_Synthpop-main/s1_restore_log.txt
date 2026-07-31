@@ -1,0 +1,7288 @@
+ipfn converged: convergence_rate not updating or below rate_tolerance
+Processing location ID: 2423701, name: дглос патяеым
+[0.07467819 0.82647791 0.04863917 0.01847887 0.03172585]
+[0.07467819 0.82647791 0.04863917 0.01847887 0.03172585 0.        ]
+ipfn converged: convergence_rate not updating or below rate_tolerance
+Processing location ID: 2423702, name: дглос аициакеиас
+[0.06875368 0.81334553 0.05731652 0.00235279 0.05823149]
+[0.06875368 0.81334553 0.05731652 0.00235279 0.05823149 0.        ]
+ipfn converged: convergence_rate not updating or below rate_tolerance
+Processing location ID: 2423703, name: дглос дутийгс авазас
+[0.07541456 0.74751262 0.13828407 0.02162942 0.01715934]
+[0.07541456 0.74751262 0.13828407 0.02162942 0.01715934 0.        ]
+ipfn converged: convergence_rate not updating or below rate_tolerance
+Processing location ID: 2423704, name: дглос еяуламхоу
+[0.06874329 0.59505908 0.31292517 0.00393842 0.01933405]
+[0.06874329 0.59505908 0.31292517 0.00393842 0.01933405 0.        ]
+ipfn converged: convergence_rate not updating or below rate_tolerance
+Processing location ID: 2423705, name: дглос йакабяутым
+[0.05874409 0.80384875 0.07866307 0.00506415 0.05367995]
+[0.05874409 0.80384875 0.07866307 0.00506415 0.05367995 0.        ]
+ipfn converged: convergence_rate not updating or below rate_tolerance
+Generated population size: (305994, 6)
+
+Creating households...
+Starting household creation process...
+Loading household compositions...
+Loaded 5001 household compositions from it_microdata_preprocess/household_compositions.json
+Initializing household tracking...
+
+Processing 5 locations...
+
+Processing location 1/5 (ID: 2423701)
+Location population size: 215920
+[100]: 215642 people unassigned
+Available household compositions: 5000
+99 households in last 100 attempts
+
+
+[200]: 215349 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[300]: 215073 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[400]: 214793 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[500]: 214497 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[600]: 214227 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[700]: 213936 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[800]: 213653 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[900]: 213373 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1000]: 213104 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1100]: 212802 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1200]: 212513 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1300]: 212229 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1400]: 211951 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1500]: 211671 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1600]: 211388 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1700]: 211106 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1800]: 210832 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1900]: 210566 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2000]: 210279 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2100]: 210005 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2200]: 209734 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2300]: 209455 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2400]: 209160 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2500]: 208891 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2600]: 208606 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2700]: 208333 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2800]: 208051 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2900]: 207758 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3000]: 207480 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3100]: 207220 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3200]: 206933 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3300]: 206642 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3400]: 206375 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3500]: 206092 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3600]: 205835 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3700]: 205547 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3800]: 205277 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3900]: 205003 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4000]: 204732 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4100]: 204471 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4200]: 204198 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4300]: 203914 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4400]: 203630 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4500]: 203345 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4600]: 203061 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4700]: 202781 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4800]: 202503 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4900]: 202232 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5000]: 201952 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5100]: 201671 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5200]: 201386 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5300]: 201079 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5400]: 200806 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5500]: 200510 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5600]: 200205 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5700]: 199912 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5800]: 199614 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5900]: 199321 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6000]: 199049 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6100]: 198773 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6200]: 198477 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6300]: 198218 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6400]: 197947 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6500]: 197666 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6600]: 197390 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6700]: 197124 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6800]: 196834 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6900]: 196564 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7000]: 196286 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7100]: 195999 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7200]: 195692 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7300]: 195402 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7400]: 195126 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7500]: 194842 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7600]: 194547 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7700]: 194276 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7800]: 194022 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7900]: 193746 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8000]: 193477 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8100]: 193184 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8200]: 192882 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8300]: 192601 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8400]: 192331 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8500]: 192065 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8600]: 191797 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8700]: 191508 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8800]: 191246 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8900]: 190958 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9000]: 190678 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9100]: 190415 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9200]: 190140 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9300]: 189871 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9400]: 189607 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9500]: 189321 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9600]: 189042 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9700]: 188755 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9800]: 188467 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9900]: 188152 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[10000]: 187863 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[10100]: 187574 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[10200]: 187295 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[10300]: 187020 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[10400]: 186748 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[10500]: 186460 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[10600]: 186194 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[10700]: 185917 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[10800]: 185655 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[10900]: 185372 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[11000]: 185070 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[11100]: 184796 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[11200]: 184499 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[11300]: 184181 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[11400]: 183898 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[11500]: 183638 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[11600]: 183347 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[11700]: 183083 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[11800]: 182812 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[11900]: 182513 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[12000]: 182229 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[12100]: 181949 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[12200]: 181682 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[12300]: 181387 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[12400]: 181106 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[12500]: 180823 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[12600]: 180530 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[12700]: 180276 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[12800]: 180030 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[12900]: 179756 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[13000]: 179504 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[13100]: 179227 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[13200]: 178913 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[13300]: 178615 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[13400]: 178316 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[13500]: 178043 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[13600]: 177759 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[13700]: 177489 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[13800]: 177205 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[13900]: 176952 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[14000]: 176661 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[14100]: 176390 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[14200]: 176129 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[14300]: 175842 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[14400]: 175574 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[14500]: 175278 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[14600]: 174979 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[14700]: 174700 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[14800]: 174425 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[14900]: 174160 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[15000]: 173874 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[15100]: 173580 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[15200]: 173311 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[15300]: 173042 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[15400]: 172763 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[15500]: 172496 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[15600]: 172189 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[15700]: 171895 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[15800]: 171615 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[15900]: 171318 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[16000]: 171033 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[16100]: 170747 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[16200]: 170455 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[16300]: 170188 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[16400]: 169918 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[16500]: 169644 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[16600]: 169370 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[16700]: 169070 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[16800]: 168804 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[16900]: 168514 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[17000]: 168246 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[17100]: 167982 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[17200]: 167685 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[17300]: 167428 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[17400]: 167163 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[17500]: 166884 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[17600]: 166607 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[17700]: 166344 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[17800]: 166061 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[17900]: 165775 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[18000]: 165482 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[18100]: 165196 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[18200]: 164917 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[18300]: 164639 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[18400]: 164366 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[18500]: 164106 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[18600]: 163829 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[18700]: 163529 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[18800]: 163235 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[18900]: 162953 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[19000]: 162670 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[19100]: 162413 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[19200]: 162153 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[19300]: 161878 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[19400]: 161572 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[19500]: 161317 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[19600]: 161024 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[19700]: 160747 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[19800]: 160466 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[19900]: 160197 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[20000]: 159922 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[20100]: 159649 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[20200]: 159377 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[20300]: 159101 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[20400]: 158808 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[20500]: 158524 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[20600]: 158224 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[20700]: 157958 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[20800]: 157688 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[20900]: 157411 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[21000]: 157130 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[21100]: 156837 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[21200]: 156548 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[21300]: 156270 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[21400]: 155982 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[21500]: 155701 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[21600]: 155398 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[21700]: 155106 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[21800]: 154827 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[21900]: 154559 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[22000]: 154261 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[22100]: 153992 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[22200]: 153693 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[22300]: 153410 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[22400]: 153117 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[22500]: 152849 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[22600]: 152577 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[22700]: 152306 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[22800]: 152029 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[22900]: 151741 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[23000]: 151443 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[23100]: 151165 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[23200]: 150880 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[23300]: 150615 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[23400]: 150343 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[23500]: 150062 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[23600]: 149786 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[23700]: 149495 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[23800]: 149229 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[23900]: 148936 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[24000]: 148664 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[24100]: 148378 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[24200]: 148111 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[24300]: 147822 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[24400]: 147529 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[24500]: 147257 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[24600]: 146974 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[24700]: 146701 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[24800]: 146408 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[24900]: 146131 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[25000]: 145863 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[25100]: 145601 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[25200]: 145313 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[25300]: 145026 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[25400]: 144755 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[25500]: 144464 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[25600]: 144172 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[25700]: 143894 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[25800]: 143601 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[25900]: 143305 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[26000]: 143020 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[26100]: 142736 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[26200]: 142455 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[26300]: 142155 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[26400]: 141869 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[26500]: 141556 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[26600]: 141265 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[26700]: 140989 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[26800]: 140701 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[26900]: 140416 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[27000]: 140130 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[27100]: 139855 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[27200]: 139555 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[27300]: 139273 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[27400]: 138976 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[27500]: 138692 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[27600]: 138419 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[27700]: 138127 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[27800]: 137827 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[27900]: 137524 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[28000]: 137229 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[28100]: 136935 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[28200]: 136654 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[28300]: 136364 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[28400]: 136094 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[28500]: 135795 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[28600]: 135508 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[28700]: 135224 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[28800]: 134942 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[28900]: 134691 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[29000]: 134415 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[29100]: 134141 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[29200]: 133870 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[29300]: 133607 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[29400]: 133339 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[29500]: 133057 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[29600]: 132774 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[29700]: 132474 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[29800]: 132205 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[29900]: 131914 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[30000]: 131618 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[30100]: 131345 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[30200]: 131086 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[30300]: 130787 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[30400]: 130474 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[30500]: 130196 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[30600]: 129921 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[30700]: 129634 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[30800]: 129350 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[30900]: 129051 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[31000]: 128766 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[31100]: 128493 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[31200]: 128186 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[31300]: 127917 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[31400]: 127649 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[31500]: 127386 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[31600]: 127097 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[31700]: 126819 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[31800]: 126564 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[31900]: 126258 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[32000]: 125976 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[32100]: 125709 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[32200]: 125426 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[32300]: 125164 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[32400]: 124887 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[32500]: 124594 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[32600]: 124318 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[32700]: 124040 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[32800]: 123760 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[32900]: 123450 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[33000]: 123184 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[33100]: 122916 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[33200]: 122604 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[33300]: 122321 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[33400]: 122020 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[33500]: 121740 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[33600]: 121479 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[33700]: 121185 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[33800]: 120916 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[33900]: 120624 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[34000]: 120339 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[34100]: 120062 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[34200]: 119802 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[34300]: 119536 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[34400]: 119260 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[34500]: 118960 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[34600]: 118682 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[34700]: 118395 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[34800]: 118099 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[34900]: 117823 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[35000]: 117529 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[35100]: 117240 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[35200]: 116972 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[35300]: 116718 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[35400]: 116452 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[35500]: 116170 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[35600]: 115879 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[35700]: 115582 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[35800]: 115305 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[35900]: 115031 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[36000]: 114732 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[36100]: 114456 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[36200]: 114192 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[36300]: 113925 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[36400]: 113631 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[36500]: 113362 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[36600]: 113091 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[36700]: 112811 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[36800]: 112533 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[36900]: 112260 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[37000]: 111984 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[37100]: 111717 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[37200]: 111451 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[37300]: 111161 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[37400]: 110870 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[37500]: 110580 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[37600]: 110312 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[37700]: 110024 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[37800]: 109736 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[37900]: 109449 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[38000]: 109178 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[38100]: 108897 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[38200]: 108613 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[38300]: 108349 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[38400]: 108062 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[38500]: 107778 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[38600]: 107505 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[38700]: 107234 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[38800]: 106954 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[38900]: 106671 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[39000]: 106384 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[39100]: 106104 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[39200]: 105839 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[39300]: 105574 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[39400]: 105295 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[39500]: 105031 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[39600]: 104751 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[39700]: 104475 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[39800]: 104177 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[39900]: 103903 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[40000]: 103624 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[40100]: 103344 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[40200]: 103058 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[40300]: 102784 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[40400]: 102479 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[40500]: 102207 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[40600]: 101930 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[40700]: 101647 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[40800]: 101383 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[40900]: 101092 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[41000]: 100820 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[41100]: 100512 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[41200]: 100203 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[41300]: 99932 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[41400]: 99655 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[41500]: 99377 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[41600]: 99112 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[41700]: 98824 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[41800]: 98527 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[41900]: 98265 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[42000]: 97990 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[42100]: 97701 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[42200]: 97419 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[42300]: 97158 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[42400]: 96861 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[42500]: 96569 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[42600]: 96291 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[42700]: 96003 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[42800]: 95705 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[42900]: 95406 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[43000]: 95149 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[43100]: 94858 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[43200]: 94559 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[43300]: 94255 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[43400]: 93949 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[43500]: 93671 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[43600]: 93410 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[43700]: 93130 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[43800]: 92838 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[43900]: 92569 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[44000]: 92282 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[44100]: 91980 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[44200]: 91689 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[44300]: 91401 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[44400]: 91111 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[44500]: 90825 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[44600]: 90548 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[44700]: 90282 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[44800]: 90025 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[44900]: 89742 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[45000]: 89465 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[45100]: 89205 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[45200]: 88937 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[45300]: 88675 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[45400]: 88415 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[45500]: 88138 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[45600]: 87872 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[45700]: 87598 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[45800]: 87295 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[45900]: 87027 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[46000]: 86733 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[46100]: 86449 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[46200]: 86162 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[46300]: 85877 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[46400]: 85632 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[46500]: 85342 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[46600]: 85053 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[46700]: 84810 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[46800]: 84533 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[46900]: 84260 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[47000]: 83977 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[47100]: 83711 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[47200]: 83411 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[47300]: 83110 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[47400]: 82860 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[47500]: 82579 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[47600]: 82289 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[47700]: 81992 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[47800]: 81720 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[47900]: 81452 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[48000]: 81177 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[48100]: 80882 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[48200]: 80584 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[48300]: 80310 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[48400]: 80012 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[48500]: 79738 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[48600]: 79460 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[48700]: 79184 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[48800]: 78904 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[48900]: 78613 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[49000]: 78333 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[49100]: 78041 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[49200]: 77759 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[49300]: 77484 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[49400]: 77218 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[49500]: 76954 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[49600]: 76671 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[49700]: 76397 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[49800]: 76121 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[49900]: 75856 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[50000]: 75594 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[50100]: 75323 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[50200]: 75058 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[50300]: 74777 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[50400]: 74484 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[50500]: 74211 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[50600]: 73928 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[50700]: 73654 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[50800]: 73399 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[50900]: 73113 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[51000]: 72825 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[51100]: 72530 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[51200]: 72242 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[51300]: 71992 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[51400]: 71732 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[51500]: 71447 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[51600]: 71161 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[51700]: 70880 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[51800]: 70617 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[51900]: 70320 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[52000]: 70043 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[52100]: 69758 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[52200]: 69464 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[52300]: 69187 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[52400]: 68900 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[52500]: 68623 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[52600]: 68339 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[52700]: 68049 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[52800]: 67758 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[52900]: 67509 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[53000]: 67231 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[53100]: 66965 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[53200]: 66692 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[53300]: 66404 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[53400]: 66128 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[53500]: 65831 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[53600]: 65563 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[53700]: 65296 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[53800]: 65015 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[53900]: 64755 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[54000]: 64489 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[54100]: 64201 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[54200]: 63916 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[54300]: 63649 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[54400]: 63370 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[54500]: 63085 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[54600]: 62793 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[54700]: 62525 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[54800]: 62254 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[54900]: 61971 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[55000]: 61688 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[55100]: 61410 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[55200]: 61152 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[55300]: 60869 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[55400]: 60593 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[55500]: 60324 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[55600]: 60042 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[55700]: 59747 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[55800]: 59443 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[55900]: 59175 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[56000]: 58889 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[56100]: 58607 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[56200]: 58301 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[56300]: 58023 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[56400]: 57750 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[56500]: 57472 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[56600]: 57184 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[56700]: 56903 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[56800]: 56624 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[56900]: 56328 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[57000]: 56041 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[57100]: 55745 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[57200]: 55456 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[57300]: 55177 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[57400]: 54904 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[57500]: 54628 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[57600]: 54345 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[57700]: 54056 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[57800]: 53765 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[57900]: 53485 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[58000]: 53206 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[58100]: 52945 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[58200]: 52640 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[58300]: 52366 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[58400]: 52064 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[58500]: 51776 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[58600]: 51514 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[58700]: 51211 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[58800]: 50917 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[58900]: 50618 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[59000]: 50334 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[59100]: 50046 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[59200]: 49772 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[59300]: 49491 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[59400]: 49216 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[59500]: 48928 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[59600]: 48646 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[59700]: 48378 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[59800]: 48100 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[59900]: 47828 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[60000]: 47543 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[60100]: 47241 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[60200]: 46963 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[60300]: 46687 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[60400]: 46400 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[60500]: 46136 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[60600]: 45849 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[60700]: 45579 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[60800]: 45290 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[60900]: 45021 people unassigned
+Available household compositions: 4996
+96 households in last 100 attempts
+
+
+[61000]: 44749 people unassigned
+Available household compositions: 4987
+91 households in last 100 attempts
+
+
+[61100]: 44526 people unassigned
+Available household compositions: 4969
+82 households in last 100 attempts
+
+
+[61200]: 44311 people unassigned
+Available household compositions: 4953
+84 households in last 100 attempts
+
+
+[61300]: 44074 people unassigned
+Available household compositions: 4941
+88 households in last 100 attempts
+
+
+[61400]: 43836 people unassigned
+Available household compositions: 4930
+89 households in last 100 attempts
+
+
+[61500]: 43615 people unassigned
+Available household compositions: 4914
+84 households in last 100 attempts
+
+
+[61600]: 43390 people unassigned
+Available household compositions: 4895
+81 households in last 100 attempts
+
+
+[61700]: 43158 people unassigned
+Available household compositions: 4885
+90 households in last 100 attempts
+
+
+[61800]: 42902 people unassigned
+Available household compositions: 4878
+93 households in last 100 attempts
+
+
+[61900]: 42653 people unassigned
+Available household compositions: 4870
+92 households in last 100 attempts
+
+
+[62000]: 42418 people unassigned
+Available household compositions: 4856
+86 households in last 100 attempts
+
+
+[62100]: 42146 people unassigned
+Available household compositions: 4851
+95 households in last 100 attempts
+
+
+[62200]: 41893 people unassigned
+Available household compositions: 4847
+96 households in last 100 attempts
+
+
+[62300]: 41630 people unassigned
+Available household compositions: 4840
+93 households in last 100 attempts
+
+
+[62400]: 41391 people unassigned
+Available household compositions: 4827
+87 households in last 100 attempts
+
+
+[62500]: 41154 people unassigned
+Available household compositions: 4816
+89 households in last 100 attempts
+
+
+[62600]: 40913 people unassigned
+Available household compositions: 4805
+89 households in last 100 attempts
+
+
+[62700]: 40682 people unassigned
+Available household compositions: 4790
+85 households in last 100 attempts
+
+
+[62800]: 40400 people unassigned
+Available household compositions: 4787
+97 households in last 100 attempts
+
+
+[62900]: 40161 people unassigned
+Available household compositions: 4775
+88 households in last 100 attempts
+
+
+[63000]: 39920 people unassigned
+Available household compositions: 4768
+93 households in last 100 attempts
+
+
+[63100]: 39693 people unassigned
+Available household compositions: 4763
+95 households in last 100 attempts
+
+
+[63200]: 39456 people unassigned
+Available household compositions: 4754
+91 households in last 100 attempts
+
+
+[63300]: 39203 people unassigned
+Available household compositions: 4743
+89 households in last 100 attempts
+
+
+[63400]: 38966 people unassigned
+Available household compositions: 4737
+94 households in last 100 attempts
+
+
+[63500]: 38726 people unassigned
+Available household compositions: 4731
+94 households in last 100 attempts
+
+
+[63600]: 38476 people unassigned
+Available household compositions: 4725
+94 households in last 100 attempts
+
+
+[63700]: 38215 people unassigned
+Available household compositions: 4721
+96 households in last 100 attempts
+
+
+[63800]: 37962 people unassigned
+Available household compositions: 4716
+95 households in last 100 attempts
+
+
+[63900]: 37713 people unassigned
+Available household compositions: 4709
+93 households in last 100 attempts
+
+
+[64000]: 37463 people unassigned
+Available household compositions: 4703
+94 households in last 100 attempts
+
+
+[64100]: 37225 people unassigned
+Available household compositions: 4694
+91 households in last 100 attempts
+
+
+[64200]: 36963 people unassigned
+Available household compositions: 4687
+93 households in last 100 attempts
+
+
+[64300]: 36703 people unassigned
+Available household compositions: 4680
+93 households in last 100 attempts
+
+
+[64400]: 36467 people unassigned
+Available household compositions: 4671
+91 households in last 100 attempts
+
+
+[64500]: 36207 people unassigned
+Available household compositions: 4665
+94 households in last 100 attempts
+
+
+[64600]: 35985 people unassigned
+Available household compositions: 4652
+87 households in last 100 attempts
+
+
+[64700]: 35702 people unassigned
+Available household compositions: 4648
+96 households in last 100 attempts
+
+
+[64800]: 35456 people unassigned
+Available household compositions: 4642
+94 households in last 100 attempts
+
+
+[64900]: 35225 people unassigned
+Available household compositions: 4635
+93 households in last 100 attempts
+
+
+[65000]: 34975 people unassigned
+Available household compositions: 4631
+96 households in last 100 attempts
+
+
+[65100]: 34725 people unassigned
+Available household compositions: 4628
+97 households in last 100 attempts
+
+
+[65200]: 34471 people unassigned
+Available household compositions: 4622
+94 households in last 100 attempts
+
+
+[65300]: 34224 people unassigned
+Available household compositions: 4616
+94 households in last 100 attempts
+
+
+[65400]: 33956 people unassigned
+Available household compositions: 4610
+94 households in last 100 attempts
+
+
+[65500]: 33707 people unassigned
+Available household compositions: 4605
+95 households in last 100 attempts
+
+
+[65600]: 33460 people unassigned
+Available household compositions: 4591
+86 households in last 100 attempts
+
+
+[65700]: 33223 people unassigned
+Available household compositions: 4586
+95 households in last 100 attempts
+
+
+[65800]: 33006 people unassigned
+Available household compositions: 4579
+93 households in last 100 attempts
+
+
+[65900]: 32774 people unassigned
+Available household compositions: 4575
+96 households in last 100 attempts
+
+
+[66000]: 32517 people unassigned
+Available household compositions: 4566
+91 households in last 100 attempts
+
+
+[66100]: 32251 people unassigned
+Available household compositions: 4562
+96 households in last 100 attempts
+
+
+[66200]: 31976 people unassigned
+Available household compositions: 4560
+98 households in last 100 attempts
+
+
+[66300]: 31727 people unassigned
+Available household compositions: 4554
+94 households in last 100 attempts
+
+
+[66400]: 31473 people unassigned
+Available household compositions: 4548
+94 households in last 100 attempts
+
+
+[66500]: 31211 people unassigned
+Available household compositions: 4543
+95 households in last 100 attempts
+
+
+[66600]: 30968 people unassigned
+Available household compositions: 4541
+98 households in last 100 attempts
+
+
+[66700]: 30710 people unassigned
+Available household compositions: 4538
+97 households in last 100 attempts
+
+
+[66800]: 30473 people unassigned
+Available household compositions: 4529
+91 households in last 100 attempts
+
+
+[66900]: 30192 people unassigned
+Available household compositions: 4522
+93 households in last 100 attempts
+
+
+[67000]: 29959 people unassigned
+Available household compositions: 4513
+91 households in last 100 attempts
+
+
+[67100]: 29737 people unassigned
+Available household compositions: 4497
+84 households in last 100 attempts
+
+
+[67200]: 29500 people unassigned
+Available household compositions: 4486
+89 households in last 100 attempts
+
+
+[67300]: 29254 people unassigned
+Available household compositions: 4474
+88 households in last 100 attempts
+
+
+[67400]: 29031 people unassigned
+Available household compositions: 4458
+84 households in last 100 attempts
+
+
+[67500]: 28819 people unassigned
+Available household compositions: 4441
+83 households in last 100 attempts
+
+
+[67600]: 28601 people unassigned
+Available household compositions: 4425
+84 households in last 100 attempts
+
+
+[67700]: 28372 people unassigned
+Available household compositions: 4412
+87 households in last 100 attempts
+
+
+[67800]: 28145 people unassigned
+Available household compositions: 4398
+86 households in last 100 attempts
+
+
+[67900]: 27937 people unassigned
+Available household compositions: 4376
+78 households in last 100 attempts
+
+
+[68000]: 27706 people unassigned
+Available household compositions: 4365
+89 households in last 100 attempts
+
+
+[68100]: 27496 people unassigned
+Available household compositions: 4349
+84 households in last 100 attempts
+
+
+[68200]: 27307 people unassigned
+Available household compositions: 4324
+75 households in last 100 attempts
+
+
+[68300]: 27108 people unassigned
+Available household compositions: 4303
+79 households in last 100 attempts
+
+
+[68400]: 26940 people unassigned
+Available household compositions: 4271
+68 households in last 100 attempts
+
+
+[68500]: 26770 people unassigned
+Available household compositions: 4240
+69 households in last 100 attempts
+
+
+[68600]: 26578 people unassigned
+Available household compositions: 4218
+78 households in last 100 attempts
+
+
+[68700]: 26376 people unassigned
+Available household compositions: 4198
+80 households in last 100 attempts
+
+
+[68800]: 26178 people unassigned
+Available household compositions: 4174
+76 households in last 100 attempts
+
+
+[68900]: 25987 people unassigned
+Available household compositions: 4150
+76 households in last 100 attempts
+
+
+[69000]: 25781 people unassigned
+Available household compositions: 4128
+78 households in last 100 attempts
+
+
+[69100]: 25591 people unassigned
+Available household compositions: 4105
+77 households in last 100 attempts
+
+
+[69200]: 25427 people unassigned
+Available household compositions: 4074
+69 households in last 100 attempts
+
+
+[69300]: 25252 people unassigned
+Available household compositions: 4044
+70 households in last 100 attempts
+
+
+[69400]: 25056 people unassigned
+Available household compositions: 4027
+83 households in last 100 attempts
+
+
+[69500]: 24880 people unassigned
+Available household compositions: 3996
+69 households in last 100 attempts
+
+
+[69600]: 24692 people unassigned
+Available household compositions: 3968
+72 households in last 100 attempts
+
+
+[69700]: 24557 people unassigned
+Available household compositions: 3927
+59 households in last 100 attempts
+
+
+[69800]: 24387 people unassigned
+Available household compositions: 3889
+62 households in last 100 attempts
+
+
+[69900]: 24241 people unassigned
+Available household compositions: 3848
+59 households in last 100 attempts
+
+
+[70000]: 24067 people unassigned
+Available household compositions: 3820
+72 households in last 100 attempts
+
+
+[70100]: 23885 people unassigned
+Available household compositions: 3789
+69 households in last 100 attempts
+
+
+[70200]: 23774 people unassigned
+Available household compositions: 3738
+49 households in last 100 attempts
+
+
+[70300]: 23651 people unassigned
+Available household compositions: 3695
+57 households in last 100 attempts
+
+
+[70400]: 23528 people unassigned
+Available household compositions: 3657
+62 households in last 100 attempts
+
+
+[70500]: 23416 people unassigned
+Available household compositions: 3610
+53 households in last 100 attempts
+
+
+[70600]: 23287 people unassigned
+Available household compositions: 3568
+58 households in last 100 attempts
+
+
+[70700]: 23167 people unassigned
+Available household compositions: 3524
+56 households in last 100 attempts
+
+
+[70800]: 23044 people unassigned
+Available household compositions: 3479
+55 households in last 100 attempts
+
+
+[70900]: 22905 people unassigned
+Available household compositions: 3438
+59 households in last 100 attempts
+
+
+[71000]: 22751 people unassigned
+Available household compositions: 3409
+71 households in last 100 attempts
+
+
+[71100]: 22631 people unassigned
+Available household compositions: 3365
+56 households in last 100 attempts
+
+
+[71200]: 22451 people unassigned
+Available household compositions: 3330
+65 households in last 100 attempts
+
+
+[71300]: 22322 people unassigned
+Available household compositions: 3290
+60 households in last 100 attempts
+
+
+[71400]: 22187 people unassigned
+Available household compositions: 3254
+64 households in last 100 attempts
+
+
+[71500]: 22058 people unassigned
+Available household compositions: 3208
+54 households in last 100 attempts
+
+
+[71600]: 21910 people unassigned
+Available household compositions: 3170
+62 households in last 100 attempts
+
+
+[71700]: 21758 people unassigned
+Available household compositions: 3138
+68 households in last 100 attempts
+
+
+[71800]: 21610 people unassigned
+Available household compositions: 3103
+65 households in last 100 attempts
+
+
+[71900]: 21473 people unassigned
+Available household compositions: 3065
+62 households in last 100 attempts
+
+
+[72000]: 21350 people unassigned
+Available household compositions: 3029
+64 households in last 100 attempts
+
+
+[72100]: 21223 people unassigned
+Available household compositions: 2989
+60 households in last 100 attempts
+
+
+[72200]: 21091 people unassigned
+Available household compositions: 2951
+62 households in last 100 attempts
+
+
+[72300]: 20928 people unassigned
+Available household compositions: 2917
+66 households in last 100 attempts
+
+
+[72400]: 20750 people unassigned
+Available household compositions: 2888
+71 households in last 100 attempts
+
+
+[72500]: 20594 people unassigned
+Available household compositions: 2852
+64 households in last 100 attempts
+
+
+[72600]: 20452 people unassigned
+Available household compositions: 2819
+67 households in last 100 attempts
+
+
+[72700]: 20299 people unassigned
+Available household compositions: 2791
+72 households in last 100 attempts
+
+
+[72800]: 20182 people unassigned
+Available household compositions: 2757
+66 households in last 100 attempts
+
+
+[72900]: 20056 people unassigned
+Available household compositions: 2713
+56 households in last 100 attempts
+
+
+[73000]: 19902 people unassigned
+Available household compositions: 2683
+70 households in last 100 attempts
+
+
+[73100]: 19740 people unassigned
+Available household compositions: 2656
+73 households in last 100 attempts
+
+
+[73200]: 19571 people unassigned
+Available household compositions: 2631
+75 households in last 100 attempts
+
+
+[73300]: 19406 people unassigned
+Available household compositions: 2602
+71 households in last 100 attempts
+
+
+[73400]: 19266 people unassigned
+Available household compositions: 2570
+68 households in last 100 attempts
+
+
+[73500]: 19103 people unassigned
+Available household compositions: 2545
+75 households in last 100 attempts
+
+
+[73600]: 18925 people unassigned
+Available household compositions: 2518
+73 households in last 100 attempts
+
+
+[73700]: 18782 people unassigned
+Available household compositions: 2484
+66 households in last 100 attempts
+
+
+[73800]: 18649 people unassigned
+Available household compositions: 2445
+61 households in last 100 attempts
+
+
+[73900]: 18490 people unassigned
+Available household compositions: 2417
+72 households in last 100 attempts
+
+
+[74000]: 18305 people unassigned
+Available household compositions: 2393
+76 households in last 100 attempts
+
+
+[74100]: 18138 people unassigned
+Available household compositions: 2370
+77 households in last 100 attempts
+
+
+[74200]: 17962 people unassigned
+Available household compositions: 2351
+81 households in last 100 attempts
+
+
+[74300]: 17815 people unassigned
+Available household compositions: 2328
+77 households in last 100 attempts
+
+
+[74400]: 17656 people unassigned
+Available household compositions: 2295
+67 households in last 100 attempts
+
+
+[74500]: 17488 people unassigned
+Available household compositions: 2266
+71 households in last 100 attempts
+
+
+[74600]: 17357 people unassigned
+Available household compositions: 2230
+64 households in last 100 attempts
+
+
+[74700]: 17169 people unassigned
+Available household compositions: 2210
+80 households in last 100 attempts
+
+
+[74800]: 16995 people unassigned
+Available household compositions: 2188
+78 households in last 100 attempts
+
+
+[74900]: 16810 people unassigned
+Available household compositions: 2158
+70 households in last 100 attempts
+
+
+[75000]: 16657 people unassigned
+Available household compositions: 2131
+73 households in last 100 attempts
+
+
+[75100]: 16466 people unassigned
+Available household compositions: 2116
+85 households in last 100 attempts
+
+
+[75200]: 16282 people unassigned
+Available household compositions: 2088
+72 households in last 100 attempts
+
+
+[75300]: 16135 people unassigned
+Available household compositions: 2064
+76 households in last 100 attempts
+
+
+[75400]: 15989 people unassigned
+Available household compositions: 2036
+72 households in last 100 attempts
+
+
+[75500]: 15828 people unassigned
+Available household compositions: 2011
+75 households in last 100 attempts
+
+
+[75600]: 15630 people unassigned
+Available household compositions: 1995
+84 households in last 100 attempts
+
+
+[75700]: 15450 people unassigned
+Available household compositions: 1977
+82 households in last 100 attempts
+
+
+[75800]: 15290 people unassigned
+Available household compositions: 1947
+70 households in last 100 attempts
+
+
+[75900]: 15109 people unassigned
+Available household compositions: 1922
+75 households in last 100 attempts
+
+
+[76000]: 14943 people unassigned
+Available household compositions: 1896
+74 households in last 100 attempts
+
+
+[76100]: 14770 people unassigned
+Available household compositions: 1873
+77 households in last 100 attempts
+
+
+[76200]: 14620 people unassigned
+Available household compositions: 1851
+78 households in last 100 attempts
+
+
+[76300]: 14451 people unassigned
+Available household compositions: 1831
+80 households in last 100 attempts
+
+
+[76400]: 14244 people unassigned
+Available household compositions: 1819
+88 households in last 100 attempts
+
+
+[76500]: 14048 people unassigned
+Available household compositions: 1802
+83 households in last 100 attempts
+
+
+[76600]: 13863 people unassigned
+Available household compositions: 1774
+72 households in last 100 attempts
+
+
+[76700]: 13714 people unassigned
+Available household compositions: 1748
+74 households in last 100 attempts
+
+
+[76800]: 13577 people unassigned
+Available household compositions: 1719
+71 households in last 100 attempts
+
+
+[76900]: 13460 people unassigned
+Available household compositions: 1681
+62 households in last 100 attempts
+
+
+[77000]: 13349 people unassigned
+Available household compositions: 1642
+61 households in last 100 attempts
+
+
+[77100]: 13238 people unassigned
+Available household compositions: 1611
+69 households in last 100 attempts
+
+
+[77200]: 13123 people unassigned
+Available household compositions: 1581
+70 households in last 100 attempts
+
+
+[77300]: 13030 people unassigned
+Available household compositions: 1544
+63 households in last 100 attempts
+
+
+[77400]: 12917 people unassigned
+Available household compositions: 1520
+76 households in last 100 attempts
+
+
+[77500]: 12796 people unassigned
+Available household compositions: 1490
+70 households in last 100 attempts
+
+
+[77600]: 12687 people unassigned
+Available household compositions: 1456
+66 households in last 100 attempts
+
+
+[77700]: 12557 people unassigned
+Available household compositions: 1431
+75 households in last 100 attempts
+
+
+[77800]: 12426 people unassigned
+Available household compositions: 1402
+71 households in last 100 attempts
+
+
+[77900]: 12314 people unassigned
+Available household compositions: 1373
+71 households in last 100 attempts
+
+
+[78000]: 12186 people unassigned
+Available household compositions: 1341
+68 households in last 100 attempts
+
+
+[78100]: 12050 people unassigned
+Available household compositions: 1324
+83 households in last 100 attempts
+
+
+[78200]: 11927 people unassigned
+Available household compositions: 1295
+71 households in last 100 attempts
+
+
+[78300]: 11801 people unassigned
+Available household compositions: 1265
+70 households in last 100 attempts
+
+
+[78400]: 11671 people unassigned
+Available household compositions: 1240
+75 households in last 100 attempts
+
+
+[78500]: 11547 people unassigned
+Available household compositions: 1216
+76 households in last 100 attempts
+
+
+[78600]: 11436 people unassigned
+Available household compositions: 1184
+68 households in last 100 attempts
+
+
+[78700]: 11324 people unassigned
+Available household compositions: 1154
+70 households in last 100 attempts
+
+
+[78800]: 11211 people unassigned
+Available household compositions: 1126
+72 households in last 100 attempts
+
+
+[78900]: 11105 people unassigned
+Available household compositions: 1100
+74 households in last 100 attempts
+
+
+[79000]: 10995 people unassigned
+Available household compositions: 1079
+79 households in last 100 attempts
+
+
+[79100]: 10867 people unassigned
+Available household compositions: 1058
+79 households in last 100 attempts
+
+
+[79200]: 10751 people unassigned
+Available household compositions: 1031
+73 households in last 100 attempts
+
+
+[79300]: 10628 people unassigned
+Available household compositions: 1009
+78 households in last 100 attempts
+
+
+[79400]: 10518 people unassigned
+Available household compositions: 995
+86 households in last 100 attempts
+
+
+[79500]: 10427 people unassigned
+Available household compositions: 961
+66 households in last 100 attempts
+
+
+[79600]: 10362 people unassigned
+Available household compositions: 911
+50 households in last 100 attempts
+
+
+[79700]: 10280 people unassigned
+Available household compositions: 871
+60 households in last 100 attempts
+
+
+[79800]: 10190 people unassigned
+Available household compositions: 831
+60 households in last 100 attempts
+
+
+[79900]: 10106 people unassigned
+Available household compositions: 793
+62 households in last 100 attempts
+
+
+[80000]: 10041 people unassigned
+Available household compositions: 746
+53 households in last 100 attempts
+
+
+[80100]: 9981 people unassigned
+Available household compositions: 700
+54 households in last 100 attempts
+
+
+[80200]: 9915 people unassigned
+Available household compositions: 660
+60 households in last 100 attempts
+
+
+[80300]: 9842 people unassigned
+Available household compositions: 625
+65 households in last 100 attempts
+
+
+[80400]: 9782 people unassigned
+Available household compositions: 582
+57 households in last 100 attempts
+
+
+[80500]: 9706 people unassigned
+Available household compositions: 553
+71 households in last 100 attempts
+
+
+[80600]: 9629 people unassigned
+Available household compositions: 519
+66 households in last 100 attempts
+
+
+[80700]: 9555 people unassigned
+Available household compositions: 487
+68 households in last 100 attempts
+
+
+[80800]: 9475 people unassigned
+Available household compositions: 458
+71 households in last 100 attempts
+
+
+[80900]: 9405 people unassigned
+Available household compositions: 425
+67 households in last 100 attempts
+
+
+[81000]: 9349 people unassigned
+Available household compositions: 378
+53 households in last 100 attempts
+
+
+[81100]: 9286 people unassigned
+Available household compositions: 341
+63 households in last 100 attempts
+
+
+[81200]: 9216 people unassigned
+Available household compositions: 309
+68 households in last 100 attempts
+
+
+[81300]: 9146 people unassigned
+Available household compositions: 276
+67 households in last 100 attempts
+
+
+[81400]: 9073 people unassigned
+Available household compositions: 240
+64 households in last 100 attempts
+
+
+[81500]: 9000 people unassigned
+Available household compositions: 210
+70 households in last 100 attempts
+
+
+[81600]: 8924 people unassigned
+Available household compositions: 183
+73 households in last 100 attempts
+
+
+[81700]: 8850 people unassigned
+Available household compositions: 153
+70 households in last 100 attempts
+
+
+[81800]: 8771 people unassigned
+Available household compositions: 126
+73 households in last 100 attempts
+
+
+[81900]: 8683 people unassigned
+Available household compositions: 102
+76 households in last 100 attempts
+
+
+[82000]: 8617 people unassigned
+Available household compositions: 60
+58 households in last 100 attempts
+
+
+[82100]: 8530 people unassigned
+Available household compositions: 30
+70 households in last 100 attempts
+
+
+[82200]: 8415 people unassigned
+Available household compositions: 18
+88 households in last 100 attempts
+
+
+[82300]: 8287 people unassigned
+Available household compositions: 17
+99 households in last 100 attempts
+
+
+[82400]: 8156 people unassigned
+Available household compositions: 14
+97 households in last 100 attempts
+
+
+[82500]: 8024 people unassigned
+Available household compositions: 14
+100 households in last 100 attempts
+
+
+[82600]: 7898 people unassigned
+Available household compositions: 14
+100 households in last 100 attempts
+
+
+[82700]: 7774 people unassigned
+Available household compositions: 14
+100 households in last 100 attempts
+
+
+[82800]: 7637 people unassigned
+Available household compositions: 14
+100 households in last 100 attempts
+
+
+[82900]: 7508 people unassigned
+Available household compositions: 14
+100 households in last 100 attempts
+
+
+[83000]: 7387 people unassigned
+Available household compositions: 14
+100 households in last 100 attempts
+
+
+[83100]: 7267 people unassigned
+Available household compositions: 12
+98 households in last 100 attempts
+
+
+[83200]: 7159 people unassigned
+Available household compositions: 10
+98 households in last 100 attempts
+
+
+[83300]: 7044 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[83400]: 6930 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[83500]: 6817 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[83600]: 6706 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[83700]: 6595 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[83800]: 6486 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[83900]: 6373 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[84000]: 6259 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[84100]: 6149 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[84200]: 6034 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[84300]: 5920 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[84400]: 5813 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[84500]: 5701 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[84600]: 5579 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[84700]: 5467 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[84800]: 5351 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[84900]: 5240 people unassigned
+Available household compositions: 10
+100 households in last 100 attempts
+
+
+[85000]: 5131 people unassigned
+Available household compositions: 7
+97 households in last 100 attempts
+
+
+[85100]: 5024 people unassigned
+Available household compositions: 7
+100 households in last 100 attempts
+
+
+[85200]: 4913 people unassigned
+Available household compositions: 7
+100 households in last 100 attempts
+
+
+[85300]: 4799 people unassigned
+Available household compositions: 4
+97 households in last 100 attempts
+
+
+[85400]: 4676 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[85500]: 4551 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[85600]: 4435 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[85700]: 4319 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[85800]: 4205 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[85900]: 4089 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[86000]: 3973 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[86100]: 3853 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[86200]: 3733 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[86300]: 3612 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[86400]: 3492 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[86500]: 3376 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[86600]: 3257 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[86700]: 3141 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[86800]: 3025 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[86900]: 2909 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[87000]: 2744 people unassigned
+Available household compositions: 3
+99 households in last 100 attempts
+
+
+[87100]: 2578 people unassigned
+Available household compositions: 3
+100 households in last 100 attempts
+
+
+[87200]: 2413 people unassigned
+Available household compositions: 3
+100 households in last 100 attempts
+
+
+[87300]: 2247 people unassigned
+Available household compositions: 3
+100 households in last 100 attempts
+
+
+[87400]: 2081 people unassigned
+Available household compositions: 3
+100 households in last 100 attempts
+
+
+[87500]: 1919 people unassigned
+Available household compositions: 3
+100 households in last 100 attempts
+
+
+No more possible household compositions available
+Completed location 2423701: Created 82507 households so far
+
+Processing location 2/5 (ID: 2423702)
+Location population size: 46989
+[100]: 46701 people unassigned
+Available household compositions: 5000
+99 households in last 100 attempts
+
+
+[200]: 46415 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[300]: 46114 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[400]: 45818 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[500]: 45540 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[600]: 45287 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[700]: 45004 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[800]: 44737 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[900]: 44460 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1000]: 44171 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1100]: 43874 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1200]: 43585 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1300]: 43305 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1400]: 43021 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1500]: 42728 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1600]: 42428 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1700]: 42136 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1800]: 41856 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1900]: 41571 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2000]: 41271 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2100]: 40977 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2200]: 40707 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2300]: 40419 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2400]: 40142 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2500]: 39864 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2600]: 39617 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2700]: 39324 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2800]: 39075 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2900]: 38785 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3000]: 38517 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3100]: 38261 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3200]: 37967 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3300]: 37684 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3400]: 37398 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3500]: 37128 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3600]: 36847 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3700]: 36576 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3800]: 36292 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3900]: 36026 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4000]: 35748 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4100]: 35465 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4200]: 35203 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4300]: 34943 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4400]: 34646 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4500]: 34372 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4600]: 34106 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4700]: 33834 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4800]: 33544 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4900]: 33280 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5000]: 33006 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5100]: 32733 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5200]: 32444 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5300]: 32149 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5400]: 31879 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5500]: 31603 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5600]: 31340 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5700]: 31047 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5800]: 30765 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5900]: 30498 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6000]: 30234 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6100]: 29965 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6200]: 29671 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6300]: 29394 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6400]: 29096 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6500]: 28807 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6600]: 28522 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6700]: 28239 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6800]: 27979 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6900]: 27712 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7000]: 27411 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7100]: 27140 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7200]: 26869 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7300]: 26575 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7400]: 26291 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7500]: 25997 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7600]: 25724 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7700]: 25445 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7800]: 25181 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[7900]: 24897 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8000]: 24629 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8100]: 24324 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8200]: 24060 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8300]: 23790 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8400]: 23529 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8500]: 23271 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8600]: 23023 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8700]: 22733 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8800]: 22459 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[8900]: 22193 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9000]: 21915 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9100]: 21638 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9200]: 21357 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9300]: 21087 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9400]: 20797 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9500]: 20544 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9600]: 20275 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9700]: 19976 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[9800]: 19705 people unassigned
+Available household compositions: 4994
+94 households in last 100 attempts
+
+
+[9900]: 19453 people unassigned
+Available household compositions: 4985
+91 households in last 100 attempts
+
+
+[10000]: 19220 people unassigned
+Available household compositions: 4974
+89 households in last 100 attempts
+
+
+[10100]: 18982 people unassigned
+Available household compositions: 4965
+91 households in last 100 attempts
+
+
+[10200]: 18743 people unassigned
+Available household compositions: 4952
+87 households in last 100 attempts
+
+
+[10300]: 18488 people unassigned
+Available household compositions: 4943
+91 households in last 100 attempts
+
+
+[10400]: 18223 people unassigned
+Available household compositions: 4938
+95 households in last 100 attempts
+
+
+[10500]: 17971 people unassigned
+Available household compositions: 4931
+93 households in last 100 attempts
+
+
+[10600]: 17762 people unassigned
+Available household compositions: 4915
+84 households in last 100 attempts
+
+
+[10700]: 17525 people unassigned
+Available household compositions: 4905
+90 households in last 100 attempts
+
+
+[10800]: 17297 people unassigned
+Available household compositions: 4893
+88 households in last 100 attempts
+
+
+[10900]: 17061 people unassigned
+Available household compositions: 4883
+90 households in last 100 attempts
+
+
+[11000]: 16837 people unassigned
+Available household compositions: 4871
+88 households in last 100 attempts
+
+
+[11100]: 16633 people unassigned
+Available household compositions: 4854
+83 households in last 100 attempts
+
+
+[11200]: 16421 people unassigned
+Available household compositions: 4838
+84 households in last 100 attempts
+
+
+[11300]: 16191 people unassigned
+Available household compositions: 4825
+87 households in last 100 attempts
+
+
+[11400]: 15970 people unassigned
+Available household compositions: 4811
+86 households in last 100 attempts
+
+
+[11500]: 15752 people unassigned
+Available household compositions: 4798
+87 households in last 100 attempts
+
+
+[11600]: 15556 people unassigned
+Available household compositions: 4780
+82 households in last 100 attempts
+
+
+[11700]: 15342 people unassigned
+Available household compositions: 4767
+87 households in last 100 attempts
+
+
+[11800]: 15137 people unassigned
+Available household compositions: 4753
+86 households in last 100 attempts
+
+
+[11900]: 14916 people unassigned
+Available household compositions: 4738
+85 households in last 100 attempts
+
+
+[12000]: 14702 people unassigned
+Available household compositions: 4725
+87 households in last 100 attempts
+
+
+[12100]: 14487 people unassigned
+Available household compositions: 4710
+85 households in last 100 attempts
+
+
+[12200]: 14262 people unassigned
+Available household compositions: 4698
+88 households in last 100 attempts
+
+
+[12300]: 14075 people unassigned
+Available household compositions: 4678
+80 households in last 100 attempts
+
+
+[12400]: 13858 people unassigned
+Available household compositions: 4664
+86 households in last 100 attempts
+
+
+[12500]: 13627 people unassigned
+Available household compositions: 4651
+87 households in last 100 attempts
+
+
+[12600]: 13394 people unassigned
+Available household compositions: 4641
+90 households in last 100 attempts
+
+
+[12700]: 13207 people unassigned
+Available household compositions: 4629
+88 households in last 100 attempts
+
+
+[12800]: 12985 people unassigned
+Available household compositions: 4617
+88 households in last 100 attempts
+
+
+[12900]: 12758 people unassigned
+Available household compositions: 4610
+93 households in last 100 attempts
+
+
+[13000]: 12558 people unassigned
+Available household compositions: 4589
+79 households in last 100 attempts
+
+
+[13100]: 12337 people unassigned
+Available household compositions: 4577
+88 households in last 100 attempts
+
+
+[13200]: 12145 people unassigned
+Available household compositions: 4557
+80 households in last 100 attempts
+
+
+[13300]: 11921 people unassigned
+Available household compositions: 4547
+90 households in last 100 attempts
+
+
+[13400]: 11705 people unassigned
+Available household compositions: 4530
+83 households in last 100 attempts
+
+
+[13500]: 11496 people unassigned
+Available household compositions: 4517
+87 households in last 100 attempts
+
+
+[13600]: 11296 people unassigned
+Available household compositions: 4496
+79 households in last 100 attempts
+
+
+[13700]: 11065 people unassigned
+Available household compositions: 4484
+88 households in last 100 attempts
+
+
+[13800]: 10844 people unassigned
+Available household compositions: 4470
+86 households in last 100 attempts
+
+
+[13900]: 10619 people unassigned
+Available household compositions: 4458
+88 households in last 100 attempts
+
+
+[14000]: 10380 people unassigned
+Available household compositions: 4447
+89 households in last 100 attempts
+
+
+[14100]: 10179 people unassigned
+Available household compositions: 4426
+79 households in last 100 attempts
+
+
+[14200]: 9993 people unassigned
+Available household compositions: 4409
+83 households in last 100 attempts
+
+
+[14300]: 9821 people unassigned
+Available household compositions: 4379
+70 households in last 100 attempts
+
+
+[14400]: 9675 people unassigned
+Available household compositions: 4348
+69 households in last 100 attempts
+
+
+[14500]: 9505 people unassigned
+Available household compositions: 4321
+73 households in last 100 attempts
+
+
+[14600]: 9308 people unassigned
+Available household compositions: 4308
+87 households in last 100 attempts
+
+
+[14700]: 9119 people unassigned
+Available household compositions: 4282
+74 households in last 100 attempts
+
+
+[14800]: 8920 people unassigned
+Available household compositions: 4262
+80 households in last 100 attempts
+
+
+[14900]: 8764 people unassigned
+Available household compositions: 4230
+68 households in last 100 attempts
+
+
+[15000]: 8636 people unassigned
+Available household compositions: 4191
+61 households in last 100 attempts
+
+
+[15100]: 8497 people unassigned
+Available household compositions: 4160
+69 households in last 100 attempts
+
+
+[15200]: 8381 people unassigned
+Available household compositions: 4121
+61 households in last 100 attempts
+
+
+[15300]: 8235 people unassigned
+Available household compositions: 4091
+70 households in last 100 attempts
+
+
+[15400]: 8090 people unassigned
+Available household compositions: 4059
+68 households in last 100 attempts
+
+
+[15500]: 7942 people unassigned
+Available household compositions: 4027
+68 households in last 100 attempts
+
+
+[15600]: 7758 people unassigned
+Available household compositions: 4002
+75 households in last 100 attempts
+
+
+[15700]: 7622 people unassigned
+Available household compositions: 3968
+66 households in last 100 attempts
+
+
+[15800]: 7469 people unassigned
+Available household compositions: 3939
+71 households in last 100 attempts
+
+
+[15900]: 7298 people unassigned
+Available household compositions: 3917
+78 households in last 100 attempts
+
+
+[16000]: 7163 people unassigned
+Available household compositions: 3890
+73 households in last 100 attempts
+
+
+[16100]: 7002 people unassigned
+Available household compositions: 3864
+74 households in last 100 attempts
+
+
+[16200]: 6851 people unassigned
+Available household compositions: 3832
+68 households in last 100 attempts
+
+
+[16300]: 6706 people unassigned
+Available household compositions: 3805
+73 households in last 100 attempts
+
+
+[16400]: 6556 people unassigned
+Available household compositions: 3781
+76 households in last 100 attempts
+
+
+[16500]: 6404 people unassigned
+Available household compositions: 3755
+74 households in last 100 attempts
+
+
+[16600]: 6281 people unassigned
+Available household compositions: 3716
+61 households in last 100 attempts
+
+
+[16700]: 6133 people unassigned
+Available household compositions: 3689
+73 households in last 100 attempts
+
+
+[16800]: 5966 people unassigned
+Available household compositions: 3671
+82 households in last 100 attempts
+
+
+[16900]: 5806 people unassigned
+Available household compositions: 3650
+79 households in last 100 attempts
+
+
+[17000]: 5655 people unassigned
+Available household compositions: 3626
+76 households in last 100 attempts
+
+
+[17100]: 5501 people unassigned
+Available household compositions: 3600
+74 households in last 100 attempts
+
+
+[17200]: 5395 people unassigned
+Available household compositions: 3563
+63 households in last 100 attempts
+
+
+[17300]: 5259 people unassigned
+Available household compositions: 3531
+68 households in last 100 attempts
+
+
+[17400]: 5148 people unassigned
+Available household compositions: 3496
+65 households in last 100 attempts
+
+
+[17500]: 5039 people unassigned
+Available household compositions: 3458
+62 households in last 100 attempts
+
+
+[17600]: 4936 people unassigned
+Available household compositions: 3414
+56 households in last 100 attempts
+
+
+[17700]: 4825 people unassigned
+Available household compositions: 3382
+68 households in last 100 attempts
+
+
+[17800]: 4722 people unassigned
+Available household compositions: 3343
+61 households in last 100 attempts
+
+
+[17900]: 4581 people unassigned
+Available household compositions: 3315
+72 households in last 100 attempts
+
+
+[18000]: 4463 people unassigned
+Available household compositions: 3282
+67 households in last 100 attempts
+
+
+[18100]: 4347 people unassigned
+Available household compositions: 3246
+64 households in last 100 attempts
+
+
+[18200]: 4237 people unassigned
+Available household compositions: 3211
+65 households in last 100 attempts
+
+
+[18300]: 4115 people unassigned
+Available household compositions: 3184
+73 households in last 100 attempts
+
+
+[18400]: 4003 people unassigned
+Available household compositions: 3148
+64 households in last 100 attempts
+
+
+[18500]: 3893 people unassigned
+Available household compositions: 3115
+67 households in last 100 attempts
+
+
+[18600]: 3782 people unassigned
+Available household compositions: 3080
+65 households in last 100 attempts
+
+
+[18700]: 3674 people unassigned
+Available household compositions: 3042
+62 households in last 100 attempts
+
+
+[18800]: 3556 people unassigned
+Available household compositions: 3010
+68 households in last 100 attempts
+
+
+[18900]: 3432 people unassigned
+Available household compositions: 2979
+69 households in last 100 attempts
+
+
+[19000]: 3331 people unassigned
+Available household compositions: 2939
+60 households in last 100 attempts
+
+
+[19100]: 3229 people unassigned
+Available household compositions: 2898
+59 households in last 100 attempts
+
+
+[19200]: 3108 people unassigned
+Available household compositions: 2872
+74 households in last 100 attempts
+
+
+[19300]: 2991 people unassigned
+Available household compositions: 2843
+71 households in last 100 attempts
+
+
+[19400]: 2891 people unassigned
+Available household compositions: 2807
+64 households in last 100 attempts
+
+
+[19500]: 2806 people unassigned
+Available household compositions: 2764
+57 households in last 100 attempts
+
+
+[19600]: 2711 people unassigned
+Available household compositions: 2722
+58 households in last 100 attempts
+
+
+[19700]: 2613 people unassigned
+Available household compositions: 2680
+58 households in last 100 attempts
+
+
+[19800]: 2508 people unassigned
+Available household compositions: 2641
+61 households in last 100 attempts
+
+
+[19900]: 2414 people unassigned
+Available household compositions: 2593
+52 households in last 100 attempts
+
+
+[20000]: 2315 people unassigned
+Available household compositions: 2553
+60 households in last 100 attempts
+
+
+[20100]: 2198 people unassigned
+Available household compositions: 2523
+70 households in last 100 attempts
+
+
+[20200]: 2115 people unassigned
+Available household compositions: 2478
+55 households in last 100 attempts
+
+
+[20300]: 2033 people unassigned
+Available household compositions: 2431
+53 households in last 100 attempts
+
+
+[20400]: 1937 people unassigned
+Available household compositions: 2392
+61 households in last 100 attempts
+
+
+[20500]: 1827 people unassigned
+Available household compositions: 2358
+66 households in last 100 attempts
+
+
+[20600]: 1744 people unassigned
+Available household compositions: 2316
+58 households in last 100 attempts
+
+
+[20700]: 1649 people unassigned
+Available household compositions: 2276
+60 households in last 100 attempts
+
+
+[20800]: 1568 people unassigned
+Available household compositions: 2234
+58 households in last 100 attempts
+
+
+[20900]: 1463 people unassigned
+Available household compositions: 2204
+70 households in last 100 attempts
+
+
+[21000]: 1365 people unassigned
+Available household compositions: 2168
+64 households in last 100 attempts
+
+
+[21100]: 1289 people unassigned
+Available household compositions: 2125
+57 households in last 100 attempts
+
+
+[21200]: 1225 people unassigned
+Available household compositions: 2077
+52 households in last 100 attempts
+
+
+[21300]: 1170 people unassigned
+Available household compositions: 2019
+42 households in last 100 attempts
+
+
+[21400]: 1109 people unassigned
+Available household compositions: 1970
+51 households in last 100 attempts
+
+
+[21500]: 1059 people unassigned
+Available household compositions: 1916
+46 households in last 100 attempts
+
+
+[21600]: 1023 people unassigned
+Available household compositions: 1849
+33 households in last 100 attempts
+
+
+[21700]: 984 people unassigned
+Available household compositions: 1788
+39 households in last 100 attempts
+
+
+[21800]: 945 people unassigned
+Available household compositions: 1725
+37 households in last 100 attempts
+
+
+[21900]: 896 people unassigned
+Available household compositions: 1669
+44 households in last 100 attempts
+
+
+[22000]: 849 people unassigned
+Available household compositions: 1614
+45 households in last 100 attempts
+
+
+[22100]: 808 people unassigned
+Available household compositions: 1555
+41 households in last 100 attempts
+
+
+[22200]: 763 people unassigned
+Available household compositions: 1500
+45 households in last 100 attempts
+
+
+[22300]: 716 people unassigned
+Available household compositions: 1443
+43 households in last 100 attempts
+
+
+[22400]: 671 people unassigned
+Available household compositions: 1387
+44 households in last 100 attempts
+
+
+[22500]: 619 people unassigned
+Available household compositions: 1338
+51 households in last 100 attempts
+
+
+[22600]: 562 people unassigned
+Available household compositions: 1293
+55 households in last 100 attempts
+
+
+[22700]: 506 people unassigned
+Available household compositions: 1247
+54 households in last 100 attempts
+
+
+[22800]: 467 people unassigned
+Available household compositions: 1183
+36 households in last 100 attempts
+
+
+[22900]: 458 people unassigned
+Available household compositions: 1092
+9 households in last 100 attempts
+
+
+[23000]: 445 people unassigned
+Available household compositions: 1005
+13 households in last 100 attempts
+
+
+[23100]: 445 people unassigned
+Available household compositions: 905
+0 households in last 100 attempts
+
+
+[23200]: 445 people unassigned
+Available household compositions: 805
+0 households in last 100 attempts
+
+
+[23300]: 445 people unassigned
+Available household compositions: 705
+0 households in last 100 attempts
+
+
+[23400]: 445 people unassigned
+Available household compositions: 605
+0 households in last 100 attempts
+
+
+[23500]: 445 people unassigned
+Available household compositions: 505
+0 households in last 100 attempts
+
+
+[23600]: 445 people unassigned
+Available household compositions: 405
+0 households in last 100 attempts
+
+
+[23700]: 445 people unassigned
+Available household compositions: 305
+0 households in last 100 attempts
+
+
+[23800]: 445 people unassigned
+Available household compositions: 205
+0 households in last 100 attempts
+
+
+[23900]: 445 people unassigned
+Available household compositions: 105
+0 households in last 100 attempts
+
+
+[24000]: 445 people unassigned
+Available household compositions: 5
+0 households in last 100 attempts
+
+
+No more possible household compositions available
+Completed location 2423702: Created 101511 households so far
+
+Processing location 3/5 (ID: 2423703)
+Location population size: 25669
+[100]: 25387 people unassigned
+Available household compositions: 5000
+99 households in last 100 attempts
+
+
+[200]: 25104 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[300]: 24829 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[400]: 24530 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[500]: 24237 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[600]: 23948 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[700]: 23662 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[800]: 23388 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[900]: 23114 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1000]: 22837 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1100]: 22557 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1200]: 22280 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1300]: 22003 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1400]: 21728 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1500]: 21449 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1600]: 21185 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1700]: 20905 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1800]: 20627 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1900]: 20363 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2000]: 20079 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2100]: 19790 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2200]: 19497 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2300]: 19214 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2400]: 18934 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2500]: 18660 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2600]: 18405 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2700]: 18103 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2800]: 17800 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2900]: 17523 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3000]: 17231 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3100]: 16990 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3200]: 16706 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3300]: 16426 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3400]: 16168 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3500]: 15909 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3600]: 15644 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3700]: 15354 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3800]: 15079 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[3900]: 14797 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4000]: 14505 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4100]: 14222 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4200]: 13952 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4300]: 13668 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4400]: 13393 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4500]: 13110 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4600]: 12837 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4700]: 12562 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4800]: 12277 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[4900]: 12002 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5000]: 11732 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5100]: 11467 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5200]: 11186 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5300]: 10896 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5400]: 10627 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5500]: 10345 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5600]: 10068 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5700]: 9788 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5800]: 9488 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[5900]: 9202 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6000]: 8934 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6100]: 8658 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6200]: 8359 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6300]: 8070 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[6400]: 7780 people unassigned
+Available household compositions: 4998
+98 households in last 100 attempts
+
+
+[6500]: 7556 people unassigned
+Available household compositions: 4990
+92 households in last 100 attempts
+
+
+[6600]: 7333 people unassigned
+Available household compositions: 4972
+82 households in last 100 attempts
+
+
+[6700]: 7136 people unassigned
+Available household compositions: 4952
+80 households in last 100 attempts
+
+
+[6800]: 6973 people unassigned
+Available household compositions: 4924
+72 households in last 100 attempts
+
+
+[6900]: 6814 people unassigned
+Available household compositions: 4885
+61 households in last 100 attempts
+
+
+[7000]: 6660 people unassigned
+Available household compositions: 4848
+63 households in last 100 attempts
+
+
+[7100]: 6478 people unassigned
+Available household compositions: 4820
+72 households in last 100 attempts
+
+
+[7200]: 6300 people unassigned
+Available household compositions: 4797
+77 households in last 100 attempts
+
+
+[7300]: 6127 people unassigned
+Available household compositions: 4767
+70 households in last 100 attempts
+
+
+[7400]: 5925 people unassigned
+Available household compositions: 4743
+76 households in last 100 attempts
+
+
+[7500]: 5806 people unassigned
+Available household compositions: 4701
+58 households in last 100 attempts
+
+
+[7600]: 5690 people unassigned
+Available household compositions: 4658
+57 households in last 100 attempts
+
+
+[7700]: 5555 people unassigned
+Available household compositions: 4618
+60 households in last 100 attempts
+
+
+[7800]: 5433 people unassigned
+Available household compositions: 4575
+57 households in last 100 attempts
+
+
+[7900]: 5329 people unassigned
+Available household compositions: 4530
+55 households in last 100 attempts
+
+
+[8000]: 5218 people unassigned
+Available household compositions: 4484
+54 households in last 100 attempts
+
+
+[8100]: 5100 people unassigned
+Available household compositions: 4439
+55 households in last 100 attempts
+
+
+[8200]: 4982 people unassigned
+Available household compositions: 4392
+53 households in last 100 attempts
+
+
+[8300]: 4888 people unassigned
+Available household compositions: 4341
+49 households in last 100 attempts
+
+
+[8400]: 4780 people unassigned
+Available household compositions: 4296
+55 households in last 100 attempts
+
+
+[8500]: 4673 people unassigned
+Available household compositions: 4245
+49 households in last 100 attempts
+
+
+[8600]: 4568 people unassigned
+Available household compositions: 4194
+49 households in last 100 attempts
+
+
+[8700]: 4466 people unassigned
+Available household compositions: 4146
+52 households in last 100 attempts
+
+
+[8800]: 4359 people unassigned
+Available household compositions: 4094
+48 households in last 100 attempts
+
+
+[8900]: 4240 people unassigned
+Available household compositions: 4055
+61 households in last 100 attempts
+
+
+[9000]: 4133 people unassigned
+Available household compositions: 4013
+58 households in last 100 attempts
+
+
+[9100]: 4022 people unassigned
+Available household compositions: 3966
+53 households in last 100 attempts
+
+
+[9200]: 3944 people unassigned
+Available household compositions: 3910
+44 households in last 100 attempts
+
+
+[9300]: 3869 people unassigned
+Available household compositions: 3851
+41 households in last 100 attempts
+
+
+[9400]: 3816 people unassigned
+Available household compositions: 3792
+41 households in last 100 attempts
+
+
+[9500]: 3749 people unassigned
+Available household compositions: 3736
+44 households in last 100 attempts
+
+
+[9600]: 3683 people unassigned
+Available household compositions: 3679
+43 households in last 100 attempts
+
+
+[9700]: 3596 people unassigned
+Available household compositions: 3632
+53 households in last 100 attempts
+
+
+[9800]: 3546 people unassigned
+Available household compositions: 3576
+44 households in last 100 attempts
+
+
+[9900]: 3488 people unassigned
+Available household compositions: 3515
+39 households in last 100 attempts
+
+
+[10000]: 3446 people unassigned
+Available household compositions: 3452
+37 households in last 100 attempts
+
+
+[10100]: 3413 people unassigned
+Available household compositions: 3377
+25 households in last 100 attempts
+
+
+[10200]: 3377 people unassigned
+Available household compositions: 3306
+29 households in last 100 attempts
+
+
+[10300]: 3344 people unassigned
+Available household compositions: 3232
+26 households in last 100 attempts
+
+
+[10400]: 3314 people unassigned
+Available household compositions: 3152
+20 households in last 100 attempts
+
+
+[10500]: 3283 people unassigned
+Available household compositions: 3075
+23 households in last 100 attempts
+
+
+[10600]: 3227 people unassigned
+Available household compositions: 3013
+38 households in last 100 attempts
+
+
+[10700]: 3186 people unassigned
+Available household compositions: 2945
+32 households in last 100 attempts
+
+
+[10800]: 3155 people unassigned
+Available household compositions: 2871
+26 households in last 100 attempts
+
+
+[10900]: 3111 people unassigned
+Available household compositions: 2801
+30 households in last 100 attempts
+
+
+[11000]: 3070 people unassigned
+Available household compositions: 2735
+34 households in last 100 attempts
+
+
+[11100]: 3032 people unassigned
+Available household compositions: 2671
+36 households in last 100 attempts
+
+
+[11200]: 3004 people unassigned
+Available household compositions: 2597
+26 households in last 100 attempts
+
+
+[11300]: 2975 people unassigned
+Available household compositions: 2524
+27 households in last 100 attempts
+
+
+[11400]: 2943 people unassigned
+Available household compositions: 2452
+28 households in last 100 attempts
+
+
+[11500]: 2918 people unassigned
+Available household compositions: 2373
+21 households in last 100 attempts
+
+
+[11600]: 2888 people unassigned
+Available household compositions: 2302
+29 households in last 100 attempts
+
+
+[11700]: 2853 people unassigned
+Available household compositions: 2236
+34 households in last 100 attempts
+
+
+[11800]: 2827 people unassigned
+Available household compositions: 2161
+25 households in last 100 attempts
+
+
+[11900]: 2800 people unassigned
+Available household compositions: 2086
+25 households in last 100 attempts
+
+
+[12000]: 2782 people unassigned
+Available household compositions: 2003
+17 households in last 100 attempts
+
+
+[12100]: 2749 people unassigned
+Available household compositions: 1930
+27 households in last 100 attempts
+
+
+[12200]: 2717 people unassigned
+Available household compositions: 1859
+29 households in last 100 attempts
+
+
+[12300]: 2680 people unassigned
+Available household compositions: 1795
+36 households in last 100 attempts
+
+
+[12400]: 2660 people unassigned
+Available household compositions: 1714
+19 households in last 100 attempts
+
+
+[12500]: 2637 people unassigned
+Available household compositions: 1637
+23 households in last 100 attempts
+
+
+[12600]: 2610 people unassigned
+Available household compositions: 1564
+27 households in last 100 attempts
+
+
+[12700]: 2577 people unassigned
+Available household compositions: 1493
+29 households in last 100 attempts
+
+
+[12800]: 2543 people unassigned
+Available household compositions: 1421
+28 households in last 100 attempts
+
+
+[12900]: 2518 people unassigned
+Available household compositions: 1346
+25 households in last 100 attempts
+
+
+[13000]: 2483 people unassigned
+Available household compositions: 1278
+32 households in last 100 attempts
+
+
+[13100]: 2452 people unassigned
+Available household compositions: 1208
+30 households in last 100 attempts
+
+
+[13200]: 2417 people unassigned
+Available household compositions: 1142
+34 households in last 100 attempts
+
+
+[13300]: 2382 people unassigned
+Available household compositions: 1075
+33 households in last 100 attempts
+
+
+[13400]: 2354 people unassigned
+Available household compositions: 1002
+27 households in last 100 attempts
+
+
+[13500]: 2333 people unassigned
+Available household compositions: 921
+19 households in last 100 attempts
+
+
+[13600]: 2315 people unassigned
+Available household compositions: 837
+16 households in last 100 attempts
+
+
+[13700]: 2300 people unassigned
+Available household compositions: 752
+15 households in last 100 attempts
+
+
+[13800]: 2289 people unassigned
+Available household compositions: 663
+11 households in last 100 attempts
+
+
+[13900]: 2275 people unassigned
+Available household compositions: 577
+14 households in last 100 attempts
+
+
+[14000]: 2270 people unassigned
+Available household compositions: 482
+5 households in last 100 attempts
+
+
+[14100]: 2267 people unassigned
+Available household compositions: 385
+3 households in last 100 attempts
+
+
+[14200]: 2265 people unassigned
+Available household compositions: 286
+1 households in last 100 attempts
+
+
+[14300]: 2262 people unassigned
+Available household compositions: 189
+3 households in last 100 attempts
+
+
+[14400]: 2250 people unassigned
+Available household compositions: 100
+11 households in last 100 attempts
+
+
+[14500]: 2227 people unassigned
+Available household compositions: 19
+19 households in last 100 attempts
+
+
+[14600]: 2132 people unassigned
+Available household compositions: 4
+85 households in last 100 attempts
+
+
+[14700]: 2016 people unassigned
+Available household compositions: 4
+100 households in last 100 attempts
+
+
+[14800]: 1888 people unassigned
+Available household compositions: 3
+99 households in last 100 attempts
+
+
+[14900]: 1720 people unassigned
+Available household compositions: 3
+100 households in last 100 attempts
+
+
+No more possible household compositions available
+Completed location 2423703: Created 111429 households so far
+
+Processing location 4/5 (ID: 2423704)
+Location population size: 8203
+[100]: 7939 people unassigned
+Available household compositions: 5000
+99 households in last 100 attempts
+
+
+[200]: 7672 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[300]: 7403 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[400]: 7123 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[500]: 6829 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[600]: 6543 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[700]: 6275 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[800]: 6010 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[900]: 5719 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1000]: 5436 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1100]: 5140 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1200]: 4864 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1300]: 4576 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1400]: 4297 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1500]: 4017 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1600]: 3735 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1700]: 3471 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1800]: 3194 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1900]: 2895 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[2000]: 2662 people unassigned
+Available household compositions: 4986
+86 households in last 100 attempts
+
+
+[2100]: 2472 people unassigned
+Available household compositions: 4960
+74 households in last 100 attempts
+
+
+[2200]: 2318 people unassigned
+Available household compositions: 4922
+62 households in last 100 attempts
+
+
+[2300]: 2196 people unassigned
+Available household compositions: 4880
+58 households in last 100 attempts
+
+
+[2400]: 2095 people unassigned
+Available household compositions: 4828
+48 households in last 100 attempts
+
+
+[2500]: 2005 people unassigned
+Available household compositions: 4781
+53 households in last 100 attempts
+
+
+[2600]: 1910 people unassigned
+Available household compositions: 4729
+48 households in last 100 attempts
+
+
+[2700]: 1808 people unassigned
+Available household compositions: 4682
+53 households in last 100 attempts
+
+
+[2800]: 1735 people unassigned
+Available household compositions: 4620
+38 households in last 100 attempts
+
+
+[2900]: 1634 people unassigned
+Available household compositions: 4576
+56 households in last 100 attempts
+
+
+[3000]: 1524 people unassigned
+Available household compositions: 4534
+58 households in last 100 attempts
+
+
+[3100]: 1430 people unassigned
+Available household compositions: 4484
+50 households in last 100 attempts
+
+
+[3200]: 1332 people unassigned
+Available household compositions: 4439
+55 households in last 100 attempts
+
+
+[3300]: 1272 people unassigned
+Available household compositions: 4376
+37 households in last 100 attempts
+
+
+[3400]: 1239 people unassigned
+Available household compositions: 4302
+26 households in last 100 attempts
+
+
+[3500]: 1197 people unassigned
+Available household compositions: 4235
+33 households in last 100 attempts
+
+
+[3600]: 1150 people unassigned
+Available household compositions: 4170
+35 households in last 100 attempts
+
+
+[3700]: 1107 people unassigned
+Available household compositions: 4100
+30 households in last 100 attempts
+
+
+[3800]: 1041 people unassigned
+Available household compositions: 4044
+44 households in last 100 attempts
+
+
+[3900]: 979 people unassigned
+Available household compositions: 3989
+45 households in last 100 attempts
+
+
+[4000]: 932 people unassigned
+Available household compositions: 3919
+30 households in last 100 attempts
+
+
+[4100]: 868 people unassigned
+Available household compositions: 3863
+44 households in last 100 attempts
+
+
+[4200]: 812 people unassigned
+Available household compositions: 3803
+40 households in last 100 attempts
+
+
+[4300]: 756 people unassigned
+Available household compositions: 3742
+39 households in last 100 attempts
+
+
+[4400]: 694 people unassigned
+Available household compositions: 3687
+45 households in last 100 attempts
+
+
+[4500]: 657 people unassigned
+Available household compositions: 3619
+32 households in last 100 attempts
+
+
+[4600]: 623 people unassigned
+Available household compositions: 3550
+31 households in last 100 attempts
+
+
+[4700]: 595 people unassigned
+Available household compositions: 3474
+24 households in last 100 attempts
+
+
+[4800]: 569 people unassigned
+Available household compositions: 3399
+25 households in last 100 attempts
+
+
+[4900]: 548 people unassigned
+Available household compositions: 3317
+18 households in last 100 attempts
+
+
+[5000]: 535 people unassigned
+Available household compositions: 3230
+13 households in last 100 attempts
+
+
+[5100]: 517 people unassigned
+Available household compositions: 3146
+16 households in last 100 attempts
+
+
+[5200]: 495 people unassigned
+Available household compositions: 3066
+20 households in last 100 attempts
+
+
+[5300]: 477 people unassigned
+Available household compositions: 2982
+16 households in last 100 attempts
+
+
+[5400]: 455 people unassigned
+Available household compositions: 2901
+19 households in last 100 attempts
+
+
+[5500]: 443 people unassigned
+Available household compositions: 2813
+12 households in last 100 attempts
+
+
+[5600]: 429 people unassigned
+Available household compositions: 2725
+12 households in last 100 attempts
+
+
+[5700]: 409 people unassigned
+Available household compositions: 2643
+18 households in last 100 attempts
+
+
+[5800]: 392 people unassigned
+Available household compositions: 2556
+13 households in last 100 attempts
+
+
+[5900]: 377 people unassigned
+Available household compositions: 2471
+15 households in last 100 attempts
+
+
+[6000]: 362 people unassigned
+Available household compositions: 2385
+14 households in last 100 attempts
+
+
+[6100]: 345 people unassigned
+Available household compositions: 2302
+17 households in last 100 attempts
+
+
+[6200]: 331 people unassigned
+Available household compositions: 2215
+13 households in last 100 attempts
+
+
+[6300]: 320 people unassigned
+Available household compositions: 2126
+11 households in last 100 attempts
+
+
+[6400]: 309 people unassigned
+Available household compositions: 2037
+11 households in last 100 attempts
+
+
+[6500]: 299 people unassigned
+Available household compositions: 1947
+10 households in last 100 attempts
+
+
+[6600]: 295 people unassigned
+Available household compositions: 1851
+4 households in last 100 attempts
+
+
+[6700]: 288 people unassigned
+Available household compositions: 1758
+7 households in last 100 attempts
+
+
+[6800]: 284 people unassigned
+Available household compositions: 1662
+4 households in last 100 attempts
+
+
+[6900]: 284 people unassigned
+Available household compositions: 1562
+0 households in last 100 attempts
+
+
+[7000]: 284 people unassigned
+Available household compositions: 1462
+0 households in last 100 attempts
+
+
+[7100]: 282 people unassigned
+Available household compositions: 1364
+2 households in last 100 attempts
+
+
+[7200]: 282 people unassigned
+Available household compositions: 1264
+0 households in last 100 attempts
+
+
+[7300]: 282 people unassigned
+Available household compositions: 1164
+0 households in last 100 attempts
+
+
+[7400]: 279 people unassigned
+Available household compositions: 1066
+2 households in last 100 attempts
+
+
+[7500]: 278 people unassigned
+Available household compositions: 967
+1 households in last 100 attempts
+
+
+[7600]: 274 people unassigned
+Available household compositions: 870
+3 households in last 100 attempts
+
+
+[7700]: 273 people unassigned
+Available household compositions: 771
+1 households in last 100 attempts
+
+
+[7800]: 272 people unassigned
+Available household compositions: 672
+1 households in last 100 attempts
+
+
+[7900]: 268 people unassigned
+Available household compositions: 575
+3 households in last 100 attempts
+
+
+[8000]: 265 people unassigned
+Available household compositions: 477
+2 households in last 100 attempts
+
+
+[8100]: 262 people unassigned
+Available household compositions: 380
+3 households in last 100 attempts
+
+
+[8200]: 261 people unassigned
+Available household compositions: 281
+1 households in last 100 attempts
+
+
+[8300]: 252 people unassigned
+Available household compositions: 189
+8 households in last 100 attempts
+
+
+[8400]: 241 people unassigned
+Available household compositions: 100
+11 households in last 100 attempts
+
+
+[8500]: 228 people unassigned
+Available household compositions: 7
+7 households in last 100 attempts
+
+
+No more possible household compositions available
+Completed location 2423704: Created 114946 households so far
+
+Processing location 5/5 (ID: 2423705)
+Location population size: 9213
+[100]: 8938 people unassigned
+Available household compositions: 5000
+99 households in last 100 attempts
+
+
+[200]: 8665 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[300]: 8392 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[400]: 8110 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[500]: 7826 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[600]: 7525 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[700]: 7229 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[800]: 6942 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[900]: 6683 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1000]: 6402 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1100]: 6117 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1200]: 5847 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1300]: 5572 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1400]: 5295 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1500]: 4981 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1600]: 4693 people unassigned
+Available household compositions: 5000
+100 households in last 100 attempts
+
+
+[1700]: 4466 people unassigned
+Available household compositions: 4990
+90 households in last 100 attempts
+
+
+[1800]: 4236 people unassigned
+Available household compositions: 4978
+88 households in last 100 attempts
+
+
+[1900]: 4010 people unassigned
+Available household compositions: 4961
+83 households in last 100 attempts
+
+
+[2000]: 3794 people unassigned
+Available household compositions: 4943
+82 households in last 100 attempts
+
+
+[2100]: 3569 people unassigned
+Available household compositions: 4933
+90 households in last 100 attempts
+
+
+[2200]: 3358 people unassigned
+Available household compositions: 4915
+82 households in last 100 attempts
+
+
+[2300]: 3148 people unassigned
+Available household compositions: 4892
+77 households in last 100 attempts
+
+
+[2400]: 2967 people unassigned
+Available household compositions: 4864
+72 households in last 100 attempts
+
+
+[2500]: 2823 people unassigned
+Available household compositions: 4838
+74 households in last 100 attempts
+
+
+[2600]: 2673 people unassigned
+Available household compositions: 4805
+67 households in last 100 attempts
+
+
+[2700]: 2530 people unassigned
+Available household compositions: 4771
+66 households in last 100 attempts
+
+
+[2800]: 2422 people unassigned
+Available household compositions: 4721
+50 households in last 100 attempts
+
+
+[2900]: 2323 people unassigned
+Available household compositions: 4668
+47 households in last 100 attempts
+
+
+[3000]: 2201 people unassigned
+Available household compositions: 4632
+64 households in last 100 attempts
+
+
+[3100]: 2124 people unassigned
+Available household compositions: 4570
+38 households in last 100 attempts
+
+
+[3200]: 2023 people unassigned
+Available household compositions: 4522
+52 households in last 100 attempts
+
+
+[3300]: 1921 people unassigned
+Available household compositions: 4485
+63 households in last 100 attempts
+
+
+[3400]: 1854 people unassigned
+Available household compositions: 4426
+41 households in last 100 attempts
+
+
+[3500]: 1787 people unassigned
+Available household compositions: 4371
+45 households in last 100 attempts
+
+
+[3600]: 1702 people unassigned
+Available household compositions: 4315
+44 households in last 100 attempts
+
+
+[3700]: 1638 people unassigned
+Available household compositions: 4256
+41 households in last 100 attempts
+
+
+[3800]: 1561 people unassigned
+Available household compositions: 4207
+51 households in last 100 attempts
+
+
+[3900]: 1505 people unassigned
+Available household compositions: 4144
+37 households in last 100 attempts
+
+
+[4000]: 1431 people unassigned
+Available household compositions: 4092
+48 households in last 100 attempts
+
+
+[4100]: 1357 people unassigned
+Available household compositions: 4041
+49 households in last 100 attempts
+
+
+[4200]: 1288 people unassigned
+Available household compositions: 3987
+46 households in last 100 attempts
+
+
+[4300]: 1206 people unassigned
+Available household compositions: 3936
+49 households in last 100 attempts
+
+
+[4400]: 1149 people unassigned
+Available household compositions: 3875
+39 households in last 100 attempts
+
+
+[4500]: 1105 people unassigned
+Available household compositions: 3810
+35 households in last 100 attempts
+
+
+[4600]: 1057 people unassigned
+Available household compositions: 3743
+33 households in last 100 attempts
+
+
+[4700]: 1008 people unassigned
+Available household compositions: 3680
+37 households in last 100 attempts
+
+
+[4800]: 956 people unassigned
+Available household compositions: 3616
+36 households in last 100 attempts
+
+
+[4900]: 909 people unassigned
+Available household compositions: 3551
+35 households in last 100 attempts
+
+
+[5000]: 860 people unassigned
+Available household compositions: 3487
+36 households in last 100 attempts
+
+
+[5100]: 804 people unassigned
+Available household compositions: 3429
+42 households in last 100 attempts
+
+
+[5200]: 755 people unassigned
+Available household compositions: 3365
+36 households in last 100 attempts
+
+
+[5300]: 699 people unassigned
+Available household compositions: 3306
+41 households in last 100 attempts
+
+
+[5400]: 648 people unassigned
+Available household compositions: 3242
+36 households in last 100 attempts
+
+
+[5500]: 598 people unassigned
+Available household compositions: 3179
+37 households in last 100 attempts
+
+
+[5600]: 554 people unassigned
+Available household compositions: 3112
+33 households in last 100 attempts
+
+
+[5700]: 490 people unassigned
+Available household compositions: 3056
+44 households in last 100 attempts
+
+
+[5800]: 428 people unassigned
+Available household compositions: 2998
+42 households in last 100 attempts
+
+
+[5900]: 370 people unassigned
+Available household compositions: 2944
+46 households in last 100 attempts
+
+
+[6000]: 340 people unassigned
+Available household compositions: 2868
+24 households in last 100 attempts
+
+
+[6100]: 312 people unassigned
+Available household compositions: 2796
+28 households in last 100 attempts
+
+
+[6200]: 299 people unassigned
+Available household compositions: 2709
+13 households in last 100 attempts
+
+
+[6300]: 286 people unassigned
+Available household compositions: 2622
+13 households in last 100 attempts
+
+
+[6400]: 270 people unassigned
+Available household compositions: 2538
+16 households in last 100 attempts
+
+
+[6500]: 252 people unassigned
+Available household compositions: 2456
+18 households in last 100 attempts
+
+
+[6600]: 242 people unassigned
+Available household compositions: 2366
+10 households in last 100 attempts
+
+
+[6700]: 228 people unassigned
+Available household compositions: 2280
+14 households in last 100 attempts
+
+
+[6800]: 218 people unassigned
+Available household compositions: 2190
+10 households in last 100 attempts
+
+
+[6900]: 202 people unassigned
+Available household compositions: 2105
+15 households in last 100 attempts
+
+
+[7000]: 193 people unassigned
+Available household compositions: 2014
+9 households in last 100 attempts
+
+
+[7100]: 180 people unassigned
+Available household compositions: 1927
+13 households in last 100 attempts
+
+
+[7200]: 161 people unassigned
+Available household compositions: 1846
+19 households in last 100 attempts
+
+
+[7300]: 142 people unassigned
+Available household compositions: 1765
+19 households in last 100 attempts
+
+
+[7400]: 129 people unassigned
+Available household compositions: 1678
+13 households in last 100 attempts
+
+
+[7500]: 115 people unassigned
+Available household compositions: 1592
+14 households in last 100 attempts
+
+
+[7600]: 105 people unassigned
+Available household compositions: 1502
+10 households in last 100 attempts
+
+
+[7700]: 101 people unassigned
+Available household compositions: 1406
+4 households in last 100 attempts
+
+
+[7800]: 96 people unassigned
+Available household compositions: 1311
+5 households in last 100 attempts
+
+
+[7900]: 96 people unassigned
+Available household compositions: 1211
+0 households in last 100 attempts
+
+
+[8000]: 96 people unassigned
+Available household compositions: 1111
+0 households in last 100 attempts
+
+
+[8100]: 96 people unassigned
+Available household compositions: 1011
+0 households in last 100 attempts
+
+
+[8200]: 96 people unassigned
+Available household compositions: 911
+0 households in last 100 attempts
+
+
+[8300]: 96 people unassigned
+Available household compositions: 811
+0 households in last 100 attempts
+
+
+[8400]: 96 people unassigned
+Available household compositions: 711
+0 households in last 100 attempts
+
+
+[8500]: 96 people unassigned
+Available household compositions: 611
+0 households in last 100 attempts
+
+
+[8600]: 96 people unassigned
+Available household compositions: 511
+0 households in last 100 attempts
+
+
+[8700]: 96 people unassigned
+Available household compositions: 411
+0 households in last 100 attempts
+
+
+[8800]: 94 people unassigned
+Available household compositions: 312
+1 households in last 100 attempts
+
+
+[8900]: 94 people unassigned
+Available household compositions: 212
+0 households in last 100 attempts
+
+
+[9000]: 94 people unassigned
+Available household compositions: 112
+0 households in last 100 attempts
+
+
+[9100]: 91 people unassigned
+Available household compositions: 14
+2 households in last 100 attempts
+
+
+No more possible household compositions available
+Completed location 2423705: Created 119070 households so far
+
+Household creation complete!
+Total households created: 119070
+Total people assigned: 301654
+People without households: 4340
+Created 119070 households
+Saved households to python_ipf/ipf_results\households.json
+Saved synthetic population with household IDs to python_ipf/ipf_results\synthetic_population_with_households.csv
+Number of invalid people 0
+% of invalid people 0.0
+0.06959549606869923 0.9999999999999992
+0.11193723970550594 0.9999999999999724
+0.0796206685981229 0.9999999999999978
+0.03364693561649459 1.0
+0.026877849689165963 1.0
+0.05333744359497427 0.9999999999999999
+0.1153004083530881 0.9999999999999656
+0.18120717506122838 0.9999999999990076
+0.2066019168246327 0.9999999999973757
+0.3164716862355416 0.9999999999387627
+0.23363552260574608 0.9999999999934779
+0.3232818033272636 0.9999999999283754
+0.544137937655878 0.9999999967728483
+0.5896718798402201 0.9999999942205448
+0.544452245384626 0.9999999967592893
+0.609810675215746 0.9999999926306787
+0.6002814183736089 0.9999999934242486
+0.9052112522572126 0.9999998747540929
+0.06418994270550125 0.9994958451058535
+0.15964736431235116 0.9969786618456516
+0.2804314061254104 0.9910421177113738
+0.9648329815766522 0.9150807461184389
+0.3332266988329118 0.9875695333826987

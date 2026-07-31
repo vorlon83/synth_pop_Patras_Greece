@@ -1,0 +1,31 @@
+S3-vs-shuffle robustness experiment: SAR=20%  beta_family=0.0221
+Loading C:\Users\thomo\Documents\MEGA\Papers\WRITING\Synthetic Population Hallas\synth_pop_Patras_Greece\abm-patras-greece-main\agents_patras_s3.csv ...
+  215,920 agents  |  92,261 S3 R households
+Building S3-U (size-matched shuffle, u_seed=999) ...
+  S3-U households: 92,261
+  [10/50]  R=70.16%  U=72.44%  inactive U-R=+5.64pp  [452s]
+  [20/50]  R=70.14%  U=72.46%  inactive U-R=+5.71pp  [865s]
+  [30/50]  R=70.14%  U=72.46%  inactive U-R=+5.72pp  [1281s]
+  [40/50]  R=70.15%  U=72.47%  inactive U-R=+5.71pp  [1729s]
+  [50/50]  R=70.16%  U=72.47%  inactive U-R=+5.71pp  [2253s]
+
+========================================================================
+S3  SAR20  beta_family=0.0221  [2253s total, 45.1s/pair]
+  Curve shape: R multi-peak 48/50  U multi-peak 44/50
+
+  Metric                     R mean      (SD)     U mean      (SD)       U-R         p
+  ----------------------------------------------------------------------------
+  Overall AR                 70.16%  (  0.07)     72.47%  (  0.07)    +2.31%    0.0000
+  Inactive AR                25.40%  (  0.18)     31.11%  (  0.17)    +5.71%    0.0000
+  Employed AR                99.98%  (  0.02)    100.00%  (  0.01)    +0.02%    0.0000
+  Student AR                 99.89%  (  0.07)     99.99%  (  0.01)    +0.09%    0.0000
+  Peak incidence           4695.84  ( 94.14)   5450.90  (105.08)  +755.06    0.0000
+  Day of peak                80.46  (  5.66)     72.42  (  5.63)    -8.04    0.0000
+
+Saved: C:\Users\thomo\Documents\MEGA\Papers\WRITING\Synthetic Population Hallas\synth_pop_Patras_Greece\abm-patras-greece-main\s3_vs_shuffle_50rep_perrun.csv
+Saved: C:\Users\thomo\Documents\MEGA\Papers\WRITING\Synthetic Population Hallas\synth_pop_Patras_Greece\abm-patras-greece-main\s3_vs_shuffle_50rep.csv
+Saved: C:\Users\thomo\Documents\MEGA\Papers\WRITING\Synthetic Population Hallas\synth_pop_Patras_Greece\abm-patras-greece-main\s3_vs_shuffle_50rep_summary.csv
+Saved: C:\Users\thomo\Documents\MEGA\Papers\WRITING\Synthetic Population Hallas\synth_pop_Patras_Greece\abm-patras-greece-main\s3_vs_shuffle_50rep_curves.csv
+Saved: C:\Users\thomo\Documents\MEGA\Papers\WRITING\Synthetic Population Hallas\synth_pop_Patras_Greece\abm-patras-greece-main\S3_RUN_LOG.md
+
+DONE.

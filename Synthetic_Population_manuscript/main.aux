@@ -1,0 +1,295 @@
+\relax 
+\catcode 95\active
+\citation{falck2025generatingspatialsyntheticpopulations}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Abstract}{1}{}\protected@file@percent }
+\newlabel{abstract}{{1}{1}{}{section.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Introduction}{1}{}\protected@file@percent }
+\newlabel{introduction}{{2}{1}{}{section.2}{}}
+\citation{thomopoulos2024agent}
+\citation{DURANHERAS201878}
+\citation{La2025}
+\citation{beckman1996creating,deming1940least}
+\citation{DURANHERAS201878}
+\citation{nowok2016synthpop}
+\citation{SanchezSerrano2025DP}
+\citation{wheaton2019spew}
+\citation{Aemmer2022IPU}
+\citation{Muller2011HIPF}
+\citation{lenormand2013generating}
+\citation{DURANHERAS201878,Aemmer2022IPU}
+\citation{Reher1998,Naldini2003,Iacovou2011HouseholdEU}
+\citation{Jiang2024}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Related Work}{3}{}\protected@file@percent }
+\newlabel{related-work}{{3}{3}{}{section.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Synthetic Population Generation Methods}{3}{}\protected@file@percent }
+\newlabel{synthetic-population-generation-methods}{{3.1}{3}{}{subsection.3.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Prior Work on Synthetic Populations in Greece}{3}{}\protected@file@percent }
+\newlabel{prior-work-on-synthetic-populations-in-greece}{{3.2}{3}{}{subsection.3.2}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Notation and terminology used in this section.}}{4}{}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{tab:notation}{{1}{4}{}{table.1}{}}
+\citation{chang2020modelling}
+\citation{hoertel2020stochastic}
+\citation{marini2020enerpol}
+\citation{rodriguez2021highresolution}
+\citation{Grefenstette2013}
+\citation{Predhumeau2023Canada}
+\citation{Zhu2024}
+\citation{VonHoene2025PublicHealth}
+\citation{Rineer2025USPop}
+\citation{Tulchinsky2026ContactNetworks}
+\citation{Osthus2026SyntheticGenetic}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Comparison of Synthetic Population Generation Approaches}}{5}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Synthetic Populations in Epidemic Modeling}{5}{}\protected@file@percent }
+\newlabel{synthetic-populations-in-epidemic-modeling}{{3.3}{5}{}{subsection.3.3}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Study Area and Data Sources}{6}{}\protected@file@percent }
+\newlabel{study-area-and-data-sources}{{4}{6}{}{section.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Study Area and Regional Context}{6}{}\protected@file@percent }
+\newlabel{study-area-and-regional-context}{{4.1}{6}{}{subsection.4.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Data Sources and Availability}{6}{}\protected@file@percent }
+\newlabel{data-sources-and-availability}{{4.2}{6}{}{subsection.4.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Spatial assignment results}{6}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}Methodology}{6}{}\protected@file@percent }
+\newlabel{methodology}{{5}{6}{}{section.5}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Problem Formulation}{6}{}\protected@file@percent }
+\newlabel{problem-formulation}{{5.1}{6}{}{subsection.5.1}{}}
+\citation{Muller2011HIPF}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Data sources used in the synthetic population pipeline.}}{7}{}\protected@file@percent }
+\newlabel{tab:data_sources}{{3}{7}{}{table.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Data Preprocessing}{7}{}\protected@file@percent }
+\newlabel{data-preprocessing}{{5.2}{7}{}{subsection.5.2}{}}
+\citation{deming1940least}
+\citation{Agyapong2025}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Residential and commercial building footprints (OpenStreetMap), overlaid with the district boundary shapefiles.}}{8}{}\protected@file@percent }
+\newlabel{fig:osm-buildings}{{1}{8}{}{figure.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Generation Method}{8}{}\protected@file@percent }
+\newlabel{generation-method}{{5.3}{8}{}{subsection.5.3}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.3.1}Seed Array and Marginal Calibration via IPF}{8}{}\protected@file@percent }
+\newlabel{seed-array-and-marginal-calibration-via-ipf}{{5.3.1}{8}{}{subsubsection.5.3.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Public transport stations and terminals (OpenStreetMap), overlaid with the district boundary shapefiles.}}{9}{}\protected@file@percent }
+\newlabel{fig:osm-transport}{{2}{9}{}{figure.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Schematic overview of the four-stage synthetic population pipeline. External data sources (orange boxes, dashed arrows) feed each relevant stage. The main data flow (solid arrows) runs top-to-bottom. HH\,=\,household.}}{10}{}\protected@file@percent }
+\newlabel{fig:pipeline}{{3}{10}{}{figure.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Synthetic population generation pipeline: iterative proportional fitting (IPF) over a 4-dimensional seed (gender: 2 categories $\times $ age: 16 five-year bands $\times $ employment: 7 ELSTAT status categories $\times $ education: 14 ISCED-based attainment levels) followed by stochastic rounding and ISTAT-template household synthesis. The three dotted boxes mark the three stages of the overview pipeline in Figure~\ref {fig:pipeline} that this diagram expands on: Stage 1 (IPF) covers the ELSTAT input, the two constraint sets, the 4-D seed array, IPF itself, and the converged weight matrix; Stage 2 (stochastic rounding) covers rounding and the resulting discrete agents; Stage 3 (household synthesis) covers the ISTAT template input and the matcher itself. Dashed arrows carry external data in; solid arrows carry data along the main flow. The two teal boxes are the marginal constraint sets (age--gender--employment and gender--employment--education). They share the employment dimension, so satisfying both exactly is not always possible, and the 2.71\% residual left on the converged weight matrix is exactly that small, unavoidable mismatch. On the right, the dashed IPF loop just keeps going until its convergence criterion is met. Note that the pipeline itself runs on Achaia regional unit marginals; only afterward is the household list filtered down to Patras municipality.}}{11}{}\protected@file@percent }
+\newlabel{fig:ipf}{{4}{11}{}{figure.4}{}}
+\citation{DURANHERAS201878}
+\citation{lenormand2013generating}
+\citation{Reher1998,Naldini2003,Iacovou2011HouseholdEU}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.3.2}Stochastic Rounding and Integerization}{12}{}\protected@file@percent }
+\newlabel{stochastic-rounding-and-integerization}{{5.3.2}{12}{}{subsubsection.5.3.2}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.3.3}Heuristic Household Construction}{12}{}\protected@file@percent }
+\newlabel{heuristic-household-construction}{{5.3.3}{12}{}{subsubsection.5.3.3}{}}
+\newlabel{household-assignment-procedure}{{5.3.3}{12}{}{subsubsection.5.3.3}{}}
+\@writefile{toc}{\contentsline {paragraph}{Household Assignment Procedure}{12}{}\protected@file@percent }
+\newlabel{compatibility-function-and-weight-specification}{{5.3.3}{12}{}{subsubsection.5.3.3}{}}
+\@writefile{toc}{\contentsline {paragraph}{Compatibility Constraint}{12}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.3.4}Cross-National Household Template Transfer: Methodological Justification}{12}{}\protected@file@percent }
+\newlabel{cross-national-household-template-transfer-methodological-justification}{{5.3.4}{12}{}{subsubsection.5.3.4}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Household-template transfer scenarios considered, and the assumption each one makes.}}{13}{}\protected@file@percent }
+\newlabel{tab:transfer_scenarios}{{4}{13}{}{table.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4}Cross-National Transfer Validation and Alternatives}{13}{}\protected@file@percent }
+\newlabel{cross-national-transfer-validation-and-alternatives}{{5.4}{13}{}{subsection.5.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.5}Spatial Allocation}{13}{}\protected@file@percent }
+\newlabel{spatial-allocation}{{5.5}{13}{}{subsection.5.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Spatial overview of the GIS assignment for Patras municipality. Each dot is the centroid of an OSM building footprint; occupied buildings are coloured by district (55 districts, cycling through 20 colours) and unoccupied buildings are shown in dim grey. School locations are overlaid by education level: yellow triangle ($\triangle $) preschool, cyan square ($\square $) primary, orange diamond ($\Diamond $) lower secondary, pink star ($\star $) upper secondary. Most of the built-up area shows up north of centre on the map, then thins out heading south along the Gulf of Corinth coastline. Schools are distributed throughout the residential fabric, with higher concentrations in the high-density central districts. Because the assignment fills every eligible residential footprint within the district polygons, essentially no eligible footprint is left unoccupied (the grey category is near-empty); this is distinct from the 15.6\% of individuals that remain unplaced because they lie outside the district polygons used for assignment, who are not represented here.}}{14}{}\protected@file@percent }
+\newlabel{fig:spatial_overview}{{5}{14}{}{figure.5}{}}
+\citation{deming1940least}
+\citation{Thomas2023Scaling}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.6}Implementation Details}{15}{}\protected@file@percent }
+\newlabel{implementation-details}{{5.6}{15}{}{subsection.5.6}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Attributes on each person object inside  \texttt  {members} after pipeline export.}}{15}{}\protected@file@percent }
+\newlabel{tab:agent_export_legend}{{5}{15}{}{table.5}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces Fields in each household object (container for person agents)}}{15}{}\protected@file@percent }
+\newlabel{tab:household_export_legend}{{6}{15}{}{table.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Screenshot from the produced HTML snapshot file}}{16}{}\protected@file@percent }
+\newlabel{fig:demo-1}{{6}{16}{}{figure.6}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Validation and Evaluation}{16}{}\protected@file@percent }
+\newlabel{validation-and-evaluation}{{6}{16}{}{section.6}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Internal Validation: Marginal Accuracy}{16}{}\protected@file@percent }
+\newlabel{internal-validation-marginal-accuracy}{{6.1}{16}{}{subsection.6.1}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces Marginal accuracy of the synthetic population against ELSTAT table B01 (permanent population by sex and age group, Municipality of Patras). All other age-group deviations fall at or below the 0.01\% level shown for the 0--14 group.}}{16}{}\protected@file@percent }
+\newlabel{tab:marginal_accuracy}{{7}{16}{}{table.7}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Tooltip, showcasing households assigned to a building}}{17}{}\protected@file@percent }
+\newlabel{fig:demo-2}{{7}{17}{}{figure.7}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.2}Joint-Distribution Checks}{17}{}\protected@file@percent }
+\newlabel{joint-distribution-checks}{{6.2}{17}{}{subsection.6.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Comparison chart of age and gender distribution (input vs output)}}{18}{}\protected@file@percent }
+\newlabel{fig:age-gender}{{8}{18}{}{figure.8}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces 2D heatmap of age and employment status distribution (input vs output)}}{19}{}\protected@file@percent }
+\newlabel{fig:2d-age-employment}{{9}{19}{}{figure.9}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Comparison of education level and employment status distribution (input vs output)}}{19}{}\protected@file@percent }
+\newlabel{fig:2d-education-employment}{{10}{19}{}{figure.10}{}}
+\citation{Iacovou2011HouseholdEU}
+\citation{Reher1998}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Employment-status composition by 5-year age band in the synthetic Patras population ($n=215{,}927$ individuals). Each bar sums to 100\%; categories follow the ELSTAT 2021 classification (Employed, Unemployed, Student, Pensioner, Income recipient, Homemaker, Other inactive). The age-stratified pattern is consistent with known Southern European labour-market structure: a dominant student cohort at ages 5--24, a sharp employed peak at 25--54, and a pensioner-dominated profile from age 60 onward. The economically inactive subpopulation (homemakers, pensioners, income recipients, other inactive) is concentrated in the 60+ bands.}}{20}{}\protected@file@percent }
+\newlabel{fig:employment_stacked}{{11}{20}{}{figure.11}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3}External Validation: Household Size Distribution}{20}{}\protected@file@percent }
+\newlabel{external-validation-household-size-distribution}{{6.3}{20}{}{subsection.6.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.4}Age-Based Co-Residence Structure}{20}{}\protected@file@percent }
+\newlabel{age-based-co-residence-structure}{{6.4}{20}{}{subsection.6.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces External validation of the synthetic household-size distribution. Observed Western Greece proportions (ELSTAT 2021; $N = 257{,}339$ households) compared to Scenario S1 (canonical run; JSD\,=\,0.009~bits) and Scenario S3 (WG-reweighted templates; JSD\,=\,0.001~bits). The singleton rate gap (WG: 32.2\%, S1: 23.6\%, S3: 33.3\%) reflects the template prior; S3 reweighting closes this gap but uses WG-specific weights.}}{21}{}\protected@file@percent }
+\newlabel{fig:household_validation}{{12}{21}{}{figure.12}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {8}{\ignorespaces Singleton rate within each ELSTAT 5-year age band (canonical population).}}{21}{}\protected@file@percent }
+\newlabel{tab:singleton_rates}{{8}{21}{}{table.8}{}}
+\citation{Iacovou2011HouseholdEU}
+\citation{Reher1998}
+\@writefile{lot}{\contentsline {table}{\numberline {9}{\ignorespaces Age-based co-residence structure, canonical population ($N=82{,}507$ households). All metrics are age-and-sex co-residence only; household roles are not modeled.}}{23}{}\protected@file@percent }
+\newlabel{tab:coresidence_metrics}{{9}{23}{}{table.9}{}}
+\citation{Reher1998}
+\citation{Iacovou2011HouseholdEU}
+\citation{Reher1998}
+\citation{Iacovou2011HouseholdEU}
+\citation{Eurostat2025ilc_lvps30}
+\citation{Eurostat2025ilc_lvps30}
+\citation{Eurostat2025ilc_lvps08}
+\@writefile{toc}{\contentsline {paragraph}{Elderly living alone, compared against a Eurostat benchmark.}{24}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {paragraph}{Young adults living with parents, context only.}{24}{}\protected@file@percent }
+\citation{Aassve2025}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.5}Validation Summary}{25}{}\protected@file@percent }
+\newlabel{validation-summary}{{6.5}{25}{}{subsection.6.5}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {10}{\ignorespaces External validation summary. All benchmarks are independent of the IPF constraints. A ``trend-only'' status means no directly comparable Greek numeric target exists, so the check confirms only that the synthetic value points the same way as the reference, not that it matches it.}}{25}{}\protected@file@percent }
+\newlabel{tab:validation_summary}{{10}{25}{}{table.10}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.6}Ablation Analysis}{25}{}\protected@file@percent }
+\newlabel{ablation-analysis}{{6.6}{25}{}{subsection.6.6}{}}
+\citation{Bigi2024}
+\@writefile{lot}{\contentsline {table}{\numberline {11}{\ignorespaces Ablation: unconstrained matching vs gender-and-age constrained matching (current implementation). Singleton fallback and MAE metrics evaluated on Patras, canonical run.}}{26}{}\protected@file@percent }
+\newlabel{tab:ablation}{{11}{26}{}{table.11}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.7}Transfer Sensitivity}{26}{}\protected@file@percent }
+\newlabel{transfer-sensitivity}{{6.7}{26}{}{subsection.6.7}{}}
+\@writefile{toc}{\contentsline {paragraph}{Practical guidance.}{26}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.8}Geospatial Validation}{26}{}\protected@file@percent }
+\newlabel{geospatial-validation}{{6.8}{26}{}{subsection.6.8}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.9}Sensitivity Analysis}{26}{}\protected@file@percent }
+\newlabel{sensitivity-analysis}{{6.9}{26}{}{subsection.6.9}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {12}{\ignorespaces Household-composition stability across 10 independent pipeline seeds (0--9). Total population is fixed by the IPF marginals; the composition metrics below are produced by the path-dependent greedy matcher and are the relevant test of ordering robustness.}}{27}{}\protected@file@percent }
+\newlabel{tab:hh_stability}{{12}{27}{}{table.12}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Results}{27}{}\protected@file@percent }
+\newlabel{results}{{7}{27}{}{section.7}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.1}Population Composition}{27}{}\protected@file@percent }
+\newlabel{population-composition}{{7.1}{27}{}{subsection.7.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.2}Age Structure}{27}{}\protected@file@percent }
+\newlabel{age-structure}{{7.2}{27}{}{subsection.7.2}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {13}{\ignorespaces Age structure: synthetic Patras vs ELSTAT Patras (2021) and ELSTAT Achaia (2021). The Achaia column is included because Achaia is the geography at which the IPF marginals are calibrated, so comparing against it separates numerical calibration accuracy (the Patras columns) from real urban-vs-regional demographic differences (the Achaia columns). Synthetic total = 215,927 people; ELSTAT Patras total = 215,923; ELSTAT Achaia total = 305,979. Median computed by linear interpolation within the 40--44 band.}}{28}{}\protected@file@percent }
+\newlabel{tab:age_structure}{{13}{28}{}{table.13}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.3}Spatial Assignment}{28}{}\protected@file@percent }
+\newlabel{spatial-assignment}{{7.3}{28}{}{subsection.7.3}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {14}{\ignorespaces Households per building (occupied non-school buildings, $n=32{,}734$)}}{28}{}\protected@file@percent }
+\newlabel{tab:households_per_building}{{14}{28}{}{table.14}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces Three-panel summary of the GIS spatial assignment (illustrative render; see the spatial-assignment note in Section~\ref {limitations}). \textit  {Left}: building occupancy map, coloured by households assigned per footprint (yellow $= 1$, orange $= 2$--3, red $= 4$--5+; the grey $= 0$ category is empty, as every eligible footprint receives at least one household). \textit  {Centre}: employment status distribution of the spatially assigned population, confirming the expected Patras profile: employed ($\approx $34\%), student ($\approx $22\%), pensioner ($\approx $20\%), homemaker ($\approx $10\%), and smaller shares of unemployed, income recipients, and other inactive. \textit  {Right}: spatial distribution of the 185 active schools by education level across the urban core.}}{30}{}\protected@file@percent }
+\newlabel{fig:summary_panels}{{13}{30}{}{figure.13}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces District-level household and population assignment (top 30 of 55 districts, ranked by assigned population; illustrative render, see Section~\ref {limitations}). \textit  {Top}: households assigned per district. \textit  {Bottom}: persons assigned per district. Values are consistent with the District~54 discussion above (8,662 persons in this render vs.\ the canonical Table~\ref {tab:results} value of 8,634). A long tail of peripheral districts (fewer than 300 households each) reflects sparser OSM polygon coverage outside the urban core.}}{31}{}\protected@file@percent }
+\newlabel{fig:district_summary}{{14}{31}{}{figure.14}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces Age--sex pyramid of the spatially assigned population (183,572 persons in this illustrative render; canonical count 182,179 persons in 32,734 occupied buildings, see Section~\ref {limitations}). The structure is consistent with the expected Southern European demographic profile: a narrow base reflecting below-replacement fertility, a working-age bulge centred on the 40--54 bands, a pronounced male cohort at 20--24 attributable to Patras's university student population, and a female surplus at 75+ driven by differential longevity. The assigned population faithfully mirrors the full Patras synthetic population age structure (see age structure table).}}{32}{}\protected@file@percent }
+\newlabel{fig:age_pyramid}{{15}{32}{}{figure.15}{}}
+\citation{thomopoulos2024agent}
+\citation{mossong2008social}
+\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces Age--sex pyramid for the full synthetic Patras population ($n=215{,}927$) versus the ELSTAT 2021 Patras municipality census ($n=215{,}923$). Solid bars show synthetic counts per 1{,}000 population; dashed outlines show the ELSTAT reference. The synthetic population reproduces the characteristic Southern European age structure: a below-replacement base (0--14 share), a working-age majority (25--54), and a progressive female surplus above age 65 driven by differential longevity. The male 20--24 prominence reflects Patras's large university student population. Deviations are within the IPF marginal tolerance ($\leq 0.05$\% across the five collapsed age groups); the 16-band detail shown here is for visual comparison.}}{33}{}\protected@file@percent }
+\newlabel{fig:age_pyramid_full}{{16}{33}{}{figure.16}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.4}Structural Patterns}{33}{}\protected@file@percent }
+\newlabel{structural-patterns}{{7.4}{33}{}{subsection.7.4}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {8}Use Case}{33}{}\protected@file@percent }
+\newlabel{applications-use-case}{{8}{33}{}{section.8}{}}
+\citation{madewell2020household}
+\citation{thomopoulos2024agent}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.1}Experimental Design and Parameters}{34}{}\protected@file@percent }
+\newlabel{experimental-design-parameters}{{8.1}{34}{}{subsection.8.1}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {15}{\ignorespaces SEIR parameter values (identical in both scenarios; scenarios differ only in household membership).}}{34}{}\protected@file@percent }
+\newlabel{tab:abm_design}{{15}{34}{}{table.15}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces Illustrative five-layer contact network for the ABM (18-agent example). Stacked planes represent the five independent contact layers; nodes are coloured and shaped by age group (orange squares = children 0--14; blue circles = adults 25--45; green circles = adults 46--64; purple triangles = elderly 65+). Dashed rings in the family layer (bottom) delineate household clusters. The dotted vertical spines trace a single agent up through all five layers at once, a reminder that every agent belongs to all five contact contexts simultaneously, not just one. Within each layer, edges are drawn for all active pairwise contacts; the family clique in the bottom layer implements the high-$\beta $ bridge that drives the assortative segregation mechanism separating Scenario \textit  {R} from Scenario \textit  {U}. Node colours correspond to the age groups used throughout the analysis; layer colours and $\beta $ values match Table~\ref {tab:abm_design}.}}{35}{}\protected@file@percent }
+\newlabel{fig:multilayer_network}{{17}{35}{}{figure.17}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.2}Metrics and Statistical Tests}{35}{}\protected@file@percent }
+\newlabel{metrics-statistical-tests}{{8.2}{35}{}{subsection.8.2}{}}
+\citation{madewell2020household}
+\@writefile{lot}{\contentsline {table}{\numberline {16}{\ignorespaces SEIR epidemic sensitivity sweep across household secondary attack rates (SAR): Scenario \textit  {R} (structured households) vs.\ Scenario \textit  {U} (size-matched shuffle).}}{37}{}\protected@file@percent }
+\newlabel{tab:abm_sweep}{{16}{37}{}{table.16}{}}
+\citation{madewell2020household}
+\citation{madewell2020household}
+\citation{madewell2020household}
+\@writefile{lof}{\contentsline {figure}{\numberline {18}{\ignorespaces Mean daily new exposures across 50 paired replicates ($n=50$; no stochastic-extinction replicates) for Scenario \textit  {R} (structured households, blue solid) and Scenario \textit  {U} (size-matched shuffle, red dashed) at household secondary attack rates of 15\%, 20\%, 25\%, and 30\%. The 9.5-day peak delay annotation applies to the SAR\,=\,20\% panel (primary parameterisation anchored at \citealt  {madewell2020household}). All mean incidence curves were validated unimodal under a prominence criterion of $\geq 10\%$ of the global maximum.}}{38}{}\protected@file@percent }
+\newlabel{fig:epidemic_curves}{{18}{38}{}{figure.18}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {19}{\ignorespaces Epidemic trajectory variability at the primary parameterisation (SAR\,=\,20\%, $\beta _\mathrm  {family}=0.0221$). Median daily new exposures with 25th--75th percentile IQR bands across 50 paired replicates; thin translucent lines show individual replicate trajectories. Scenario \textit  {R} (blue, solid): structured household contacts. Scenario \textit  {U} (red, dashed): size-matched shuffle. Notice how much narrower the IQR band is for Scenario \textit  {R} than for \textit  {U}; household isolation appears to stabilise the epidemic's course, not just shift it. No stochastic-extinction replicates occurred; all 50 paired trajectories are shown.}}{38}{}\protected@file@percent }
+\newlabel{fig:fan_curves}{{19}{38}{}{figure.19}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {20}{\ignorespaces Peak epidemic metrics across SAR scenarios. \textit  {Left}: mean peak daily incidence (new exposures), Scenario \textit  {R} vs.\ U; Scenario \textit  {U} consistently reaches 12--24\% higher peaks. \textit  {Right}: mean day of peak, Scenario \textit  {R} vs.\ U; Scenario \textit  {U} peaks 9--12 days earlier across the SAR range. Error bars show $\pm 1$ SD over $n=50$ valid replicates (see ABM results table).}}{39}{}\protected@file@percent }
+\newlabel{fig:peak_comparison}{{20}{39}{}{figure.20}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {21}{\ignorespaces Per-replicate final attack-rate distributions for Scenario \textit  {R} (blue) and Scenario \textit  {U} (red) across all four household SAR scenarios. Violin widths encode the kernel density estimate over 50 paired replicates; horizontal bars mark the median; individual replicate values are overlaid as dots. No stochastic-extinction replicates occurred. The tight within-scenario spread confirms that the structural difference between R and U is systematic rather than driven by a few outliers. Wilcoxon paired signed-rank $p < 10^{-4}$ at every SAR value (see the ABM sweep table).}}{39}{}\protected@file@percent }
+\newlabel{fig:ar_violin}{{21}{39}{}{figure.21}{}}
+\citation{madewell2020household}
+\citation{madewell2020household}
+\citation{Herriott2025EpiGeoPop}
+\@writefile{lof}{\contentsline {figure}{\numberline {22}{\ignorespaces Assortative segregation mechanism: attack-rate gap (Scenario \textit  {U} minus Scenario \textit  {R}) for the economically inactive subpopulation (red circles, solid) and the overall population (blue squares, dashed) across household secondary attack rates. Both gaps increase monotonically with SAR; the inactive gap is ${\approx }2.5{\times }$ larger than the overall gap at every SAR value, isolating household composition as the driver. The vertical dotted line marks SAR\,=\,20\% (primary anchor: \citealt  {madewell2020household} pooled COVID-19 household SAR 18.8\%).}}{40}{}\protected@file@percent }
+\newlabel{fig:inactive_gap}{{22}{40}{}{figure.22}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.3}Robustness to the Household-Prior Choice: S3-vs-Shuffle Check}{41}{}\protected@file@percent }
+\newlabel{s3-vs-shuffle-robustness}{{8.3}{41}{}{subsection.8.3}{}}
+\citation{DURANHERAS201878}
+\@writefile{toc}{\contentsline {section}{\numberline {9}Discussion}{42}{}\protected@file@percent }
+\newlabel{discussion}{{9}{42}{}{section.9}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.1}Strengths}{42}{}\protected@file@percent }
+\newlabel{strengths}{{9.1}{42}{}{subsection.9.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.2}Limitations}{42}{}\protected@file@percent }
+\newlabel{limitations}{{9.2}{42}{}{subsection.9.2}{}}
+\citation{SanchezSerrano2025DP}
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.3}Ethical Considerations}{43}{}\protected@file@percent }
+\newlabel{ethical-considerations}{{9.3}{43}{}{subsection.9.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.4}Generalizability and Extension Potential}{43}{}\protected@file@percent }
+\newlabel{generalizability-and-extension-potential}{{9.4}{43}{}{subsection.9.4}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {10}Conclusion}{43}{}\protected@file@percent }
+\newlabel{conclusion}{{10}{43}{}{section.10}{}}
+\citation{Kehrer2025}
+\@writefile{toc}{\contentsline {section}{\numberline {11}Future Research Directions}{44}{}\protected@file@percent }
+\newlabel{future-research-directions}{{11}{44}{}{section.11}{}}
+\newlabel{acknowledgments}{{11}{44}{}{section.11}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {A}District-Level Spatial Assignment Results}{45}{}\protected@file@percent }
+\newlabel{app:district-table}{{A}{45}{}{section.1}{}}
+\gdef \LT@i {\LT@entry 
+    {1}{16.2489pt}\LT@entry 
+    {1}{102.73918pt}\LT@entry 
+    {1}{38.94891pt}\LT@entry 
+    {1}{38.84421pt}\LT@entry 
+    {5}{30.3413pt}\LT@entry 
+    {5}{21.94057pt}\LT@entry 
+    {1}{41.66977pt}\LT@entry 
+    {1}{41.80168pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {17}{\ignorespaces District-level spatial assignment results (all 55 districts, sorted by assigned population). $\Delta $\,\% is the signed allocation error $(\text  {assigned}-\text  {pop2021})/\text  {pop2021}\times 100$: values near zero indicate close agreement, and large positive values flag over-allocation where the rule-based classifier tags non-residential footprints (stadium, commercial, mixed-use) as residential (notably districts~13 Vlatero--Tritaki and 22 Ethniko Stadio). HH/bldg is households per occupied building.}}{46}{}\protected@file@percent }
+\newlabel{tab:results}{{17}{46}{}{table.17}{}}
+\bibstyle{plainnat}
+\bibdata{bibliography}
+\bibcite{Aassve2025}{{1}{2025}{{Aassve et~al.}}{{Aassve, Adserà, Bastianelli, and Mencarini}}}
+\bibcite{Aemmer2022IPU}{{2}{2022}{{Aemmer and MacKenzie}}{{}}}
+\bibcite{Agyapong2025}{{3}{2025}{{Agyapong}}{{}}}
+\bibcite{beckman1996creating}{{4}{1996}{{Beckman et~al.}}{{Beckman, Baggerly, and McKay}}}
+\bibcite{Bigi2024}{{5}{2024}{{Bigi et~al.}}{{Bigi, Rashidi, and Viti}}}
+\bibcite{chang2020modelling}{{6}{2020}{{Chang et~al.}}{{Chang, Harding, Zachreson, Cliff, and Prokopenko}}}
+\bibcite{deming1940least}{{7}{1940}{{Deming and Stephan}}{{}}}
+\@writefile{lot}{\contentsline {table}{\numberline {18}{\ignorespaces Columns of the district-level spatial-assignment results table (Table~\ref {tab:results}).}}{47}{}\protected@file@percent }
+\newlabel{tab:district_statistics_legend}{{18}{47}{}{table.18}{}}
+\bibcite{DURANHERAS201878}{{8}{2018}{{Durán-Heras et~al.}}{{Durán-Heras, García-Gutiérrez, and Castilla-Alcalá}}}
+\bibcite{Eurostat2025ilc_lvps08}{{9}{2025{}}{{Eurostat}}{{}}}
+\bibcite{Eurostat2025ilc_lvps30}{{10}{2025{}}{{Eurostat}}{{}}}
+\bibcite{falck2025generatingspatialsyntheticpopulations}{{11}{2025}{{Falck}}{{}}}
+\bibcite{wheaton2019spew}{{12}{2017}{{Gallagher et~al.}}{{Gallagher, Richardson, Ventura, and Eddy}}}
+\bibcite{Grefenstette2013}{{13}{2013}{{Grefenstette et~al.}}{{Grefenstette, Brown, Rosenfeld, DePasse, Stone, Cooley, Wheaton, Fyshe, Galloway, Sriram, Guclu, Abraham, and Burke}}}
+\bibcite{Herriott2025EpiGeoPop}{{14}{2025}{{Herriott et~al.}}{{Herriott, Capel, Ellmen, Schofield, Zhu, Lambert, Gavaghan, Bouros, Creswell, and Gallagher}}}
+\bibcite{hoertel2020stochastic}{{15}{2020}{{Hoertel et~al.}}{{Hoertel, Blachier, Blanco, Olfson, Massetti, Rico, Limosin, and Leleu}}}
+\bibcite{Iacovou2011HouseholdEU}{{16}{2011}{{Iacovou and Skew}}{{}}}
+\bibcite{Jiang2024}{{17}{2024}{{Jiang et~al.}}{{Jiang, Yin, Wang, and Crooks}}}
+\bibcite{Kehrer2025}{{18}{2027}{{Kehrer and Conrad}}{{}}}
+\bibcite{La2025}{{19}{2025}{{La et~al.}}{{La, Vu, Kamruzzaman, and Miller}}}
+\bibcite{lenormand2013generating}{{20}{2013}{{Lenormand and Deffuant}}{{}}}
+\bibcite{madewell2020household}{{21}{2020}{{Madewell et~al.}}{{Madewell, Yang, Longini, Halloran, and Dean}}}
+\bibcite{marini2020enerpol}{{22}{2020}{{Marini et~al.}}{{Marini, Brunner, Chokani, and Abhari}}}
+\bibcite{mossong2008social}{{23}{2008}{{Mossong et~al.}}{{Mossong, Hens, Jit, Beutels, Auranen, Mikolajczyk, Massari, Salmaso, Tomba, Wallinga, Heijne, Sadkowska-Todys, Rosinska, and Edmunds}}}
+\bibcite{Muller2011HIPF}{{24}{2011}{{Mueller and Axhausen}}{{}}}
+\bibcite{Naldini2003}{{25}{2004}{{Naldini}}{{}}}
+\bibcite{nowok2016synthpop}{{26}{2016}{{Nowok et~al.}}{{Nowok, Raab, and Dibben}}}
+\bibcite{Osthus2026SyntheticGenetic}{{27}{2026}{{Osthus et~al.}}{{Osthus, Murph, Goldberg, Beesley, Fischer, Parikh, and Castro}}}
+\bibcite{Predhumeau2023Canada}{{28}{2023}{{Prédhumeau and Manley}}{{}}}
+\bibcite{Reher1998}{{29}{1998}{{Reher}}{{}}}
+\bibcite{Rineer2025USPop}{{30}{2025}{{Rineer et~al.}}{{Rineer, Kruskamp, Kery, Jones, Hilscher, and Bobashev}}}
+\bibcite{rodriguez2021highresolution}{{31}{2023}{{Rodríguez et~al.}}{{Rodríguez, Aleta, and Moreno}}}
+\bibcite{SanchezSerrano2025DP}{{32}{2025}{{Sanchez-Serrano et~al.}}{{Sanchez-Serrano, Rios, and Agudo}}}
+\bibcite{Thomas2023Scaling}{{33}{2023}{{Thomas and Marvell}}{{}}}
+\bibcite{thomopoulos2024agent}{{34}{2024}{{Thomopoulos and Tsichlas}}{{}}}
+\bibcite{Tulchinsky2026ContactNetworks}{{35}{2026}{{Tulchinsky et~al.}}{{Tulchinsky, Hamilton, Haghpanah, Kipshidze, and Klein}}}
+\bibcite{VonHoene2025PublicHealth}{{36}{2025}{{Von~Hoene et~al.}}{{Von~Hoene, Roess, Kavak, and Anderson}}}
+\bibcite{Zhu2024}{{37}{2024}{{Zhu et~al.}}{{Zhu, Yin, Liu, Liu, Shi, Li, Zou, and Du}}}
+\gdef \@abspage@last{50}
