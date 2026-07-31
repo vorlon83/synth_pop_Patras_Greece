@@ -28,6 +28,7 @@ Synthetic_Population_manuscript/
 # entry) — not read by any script, kept locally for reference only
 data/initial_state_preseed_backup.geojson
 figures/initial_state_regenerated_preseed_backup.geojson
+data/gis_district_statistics_preseed_backup.csv
 
 # Python
 __pycache__/
